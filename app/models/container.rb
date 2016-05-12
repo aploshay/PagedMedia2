@@ -1,4 +1,5 @@
 class Container < ActiveFedora::Base
+  include ::PagedMedia::ObjectBehavior
   include ::PagedMedia::ContainerBehavior
 
   property :title, predicate: ::RDF::Vocab::DC.title, multiple: false do |index|
