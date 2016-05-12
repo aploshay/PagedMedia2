@@ -28,4 +28,5 @@ module PagedMedia::ContainerBehavior
     end
     member_ids
   end
+
 end

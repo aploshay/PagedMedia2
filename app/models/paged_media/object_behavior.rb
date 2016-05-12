@@ -3,35 +3,37 @@ module PagedMedia::ObjectBehavior
 
   # builds descendents hash, with objects as keys
   def descendents_tree(*classes)
-    relationship_tree(:members, :itself, classes)
+    relationship_tree(:members, :itself, classes, false)
   end
 
   # builds descendents hash, with object ids as keys
   def descendents_tree_ids(*classes)
-    relationship_tree(:members, :id, classes)
+    relationship_tree(:members, :id, classes, false)
   end
 
   # builds ancestors hash, with objects as keys
   def ancestors_tree(*classes)
-    relationship_tree(:member_of, :itself, classes)
+    relationship_tree(:member_of, :itself, classes, false)
   end
 
   # builds ancestors hash, with object ids as keys
   def ancestors_tree_ids(*classes)
-    relationship_tree(:member_of, :id, classes)
+    relationship_tree(:member_of, :id, classes, false)
   end
 
   # abstract method to build a hash of related objects
   # relationship_method: generally :members/:ordered_members, or :member_of
   # object_method: method to return key (:itself, :id, :title, etc)
   # classes: optional array of classes to restrict results to; empty array applies no filter
-  def relationship_tree(relationship_method, object_method, classes)
+  # continue: continue before/after matches
+  def relationship_tree(relationship_method, object_method, classes, continue)
     process_list = self.send(relationship_method).to_a
+    process_list.select! { |m| m.class.in?(classes) || classes.map { |c| m.is_a?(c) }.any } unless classes.empty? || continue
     process_list.inject({}) do |h, m|
       if classes.empty? || m.class.in?(classes) || classes.map { |c| m.is_a?(c) }.any?
-        h[m.send(object_method)] = m.relationship_tree(relationship_method, object_method, classes)
+        h[m.send(object_method)] = m.relationship_tree(relationship_method, object_method, classes, continue)
         h
-      else
+      elsif continue
         h.merge(m.relationship_tree(relationship_method, object_method, classes))
       end
     end
@@ -39,33 +41,42 @@ module PagedMedia::ObjectBehavior
 
   # list descendents as objects
   def descendents_list(*classes)
-    relationship_list(:members, :itself, classes)
+    relationship_list(:members, :itself, classes, false, false, false)
   end
 
   # list descendents as ids
   def descendents_list_ids(*classes)
-    relationship_list(:members, :id, classes)
+    relationship_list(:members, :id, classes, false, false, false)
   end
 
   # list ancestors as objects
   def ancestors_list(*classes)
-    relationship_list(:member_of, :itself, classes)
+    relationship_list(:member_of, :itself, classes, true, true, true)
   end
 
   # list ancestors as ids
   def ancestors_list_ids(*classes)
-    relationship_list(:member_of, :id, classes)
+    relationship_list(:member_of, :id, classes, true, true, true)
   end
 
   # abstract method to build an array
   # relationship_method: generally :members/:ordered_members, or :member_of
   # object_method: method to return key (:itself, :id, :title, etc)
   # classes: optional array of classes to restrict results to; empty array applies no filter
-  def relationship_list(relationship_method, object_method, classes)
+  def relationship_list(relationship_method, object_method, classes, continue_before, continue_while, continue_after, matched = false, unmatched = false)
     process_list = self.send(relationship_method).to_a
+    process_list.select! { |m| m.class.in?(classes) } unless classes.empty? || (matched && !unmatched && continue_while) || (continue_before && !matched) || (continue_after && unmatched)
     process_list.inject([]) do |a, m|
-      a << m.send(object_method) if classes.empty? || m.class.in?(classes) || classes.map { |c| m.is_a?(c) }.any?
-      a += m.relationship_list(relationship_method, object_method, classes)
+      if classes.empty? || m.class.in?(classes) || classes.map { |c| m.is_a?(c) }.any?
+        matched = true
+        a << m.send(object_method)
+      elsif matched
+        unmatched = true
+      end
+      if (matched && !unmatched && continue_while) || (!matched && continue_before) || (unmatched && continue_after)
+        a += m.relationship_list(relationship_method, object_method, classes, continue_before, continue_while, continue_after, matched, unmatched)
+      end
+      a
     end
   end
 
