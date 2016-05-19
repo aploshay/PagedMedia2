@@ -1,6 +1,7 @@
 require 'rspec/core'
 require 'rspec/core/rake_task'
 require './lib/tasks/paged_media/preingest'
+require './lib/tasks/paged_media/ingest'
 
 namespace :paged_media do
   # Pass arguments to rspec via ENV variables
@@ -29,6 +30,11 @@ namespace :paged_media do
   desc 'Run pre-ingest'
   task :preingest => :environment do
     PagedMedia::PreIngest::Tasks.preingest
+  end
+
+  desc 'Run ingest'
+  task :ingest => :environment do
+    PagedMedia::Ingest::Tasks.ingest
   end
 
 end
