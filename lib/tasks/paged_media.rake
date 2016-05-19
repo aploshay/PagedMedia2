@@ -1,6 +1,7 @@
 require 'rspec/core'
 require 'rspec/core/rake_task'
 require './lib/tasks/paged_media/ingest'
+require './lib/tasks/paged_media/preingest'
 
 namespace :paged_media do
   desc 'Paged Media rspec task'
@@ -20,6 +21,11 @@ namespace :paged_media do
   desc 'Run ingest'
   task :ingest => :environment do
     PagedMedia::Ingest::Tasks.ingest
+  end
+
+  desc 'Run pre-ingest'
+  task :preingest => :environment do
+    PagedMedia::PreIngest::Tasks.preingest
   end
 
 end
