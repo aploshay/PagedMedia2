@@ -9,7 +9,7 @@ namespace :paged_media do
   task :spec do
     FcrepoWrapper.wrap(port: 8986, enable_jms: false) do |fc|
       SolrWrapper.wrap(port: 8985, verbose: true) do |solr|
-        solr.with_collection name: 'test', dir: File.join(Rails.root, 'solr', 'config') do
+        solr.with_collection name: 'hydra-test', dir: File.join(Rails.root, 'solr', 'config') do
           Rake::Task['paged_media:rspec'].invoke
         end
       end

@@ -8,7 +8,7 @@ class CurationConcerns::PagedWorksController < ApplicationController
   def show
     super
     # @members = find_members()
-    @members = PagedWork.find(params[:id]).members
+    @members = PagedWork.find(params[:id]).ordered_members.to_a
   end
 
   def find_members(*args)
