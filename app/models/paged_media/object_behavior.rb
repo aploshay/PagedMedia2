@@ -37,6 +37,18 @@ module PagedMedia::ObjectBehavior
     end
   end
 
+  def cont_array
+    array = []
+    self.ordered_members.to_a.each do |container|
+      if container.class == Container
+        array << { "id" => container.id, "title" => container.title, "type" => "Container"}
+        children = container.cont_array
+        array << children if children.any?
+      end
+    end
+    array
+  end
+
   # list descendents as objects
   def descendents_list(*classes)
     relationship_list(:members, :itself, classes)

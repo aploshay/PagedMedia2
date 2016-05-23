@@ -1,3 +1,7 @@
+<%
+  @cont_json = MusicalScore.find(@presenter.id).cont_array.to_json
+%>
+
   <div class="row">
     <div >
       <% unless @cont_json.nil? %>
