@@ -32,6 +32,10 @@ module PagedMedia
             c['file_set']['depositor'] = 'user@example.com'
             c['file_set']['edit_users'] = ['user@example.com']
             c['file_set']['title'] = [child['label']]
+            #FIXME: stub filename logic, limited to 4, hardcoded filename
+            file_num = child.xpath('.//ContentInterval').first['end'].to_i
+            file_num = 0 if file_num > 4
+            c['file_set']['file'] = "bhr9405-1-#{file_num}.png" unless file_num.zero?
             array << c
           end
         end

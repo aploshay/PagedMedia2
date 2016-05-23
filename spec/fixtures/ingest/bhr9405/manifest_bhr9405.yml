@@ -18,12 +18,14 @@ musical_score:
           - user@example.com
           title:
           - "[i]"
+          file: bhr9405-1-1.png
       - file_set:
           depositor: user@example.com
           edit_users:
           - user@example.com
           title:
           - "[ii]"
+          file: bhr9405-1-2.png
   - container:
       title: "[Notes]"
       ordered_members:
@@ -33,12 +35,14 @@ musical_score:
           - user@example.com
           title:
           - "[iii]"
+          file: bhr9405-1-3.png
       - file_set:
           depositor: user@example.com
           edit_users:
           - user@example.com
           title:
           - "[iv]"
+          file: bhr9405-1-4.png
   - container:
       title: "[Orchestration]"
       ordered_members:
