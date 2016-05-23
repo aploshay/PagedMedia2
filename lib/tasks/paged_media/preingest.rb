@@ -24,8 +24,8 @@ module PagedMedia
           c = {}
           if child.name == 'Div'
             c['container'] = {}
-            c['title'] = [child['label']]
-            c['ordered_members'] = Helpers.structure_to_array(child)
+            c['container']['title'] = child['label']
+            c['container']['ordered_members'] = Helpers.structure_to_array(child)
             array << c
           elsif child.name == 'Chunk'
             c['file_set'] = {}
@@ -38,7 +38,7 @@ module PagedMedia
         array
       end
       def Helpers.preingest_folders
-        ingest_root = "spec/fixtures/pre-ingest/paged_media/"
+        ingest_root = "spec/fixtures/pre-ingest/"
         return Dir.glob(ingest_root + "*").select { |f| File.directory?(f) }
       end
       def Helpers.preingest_file(filename, xml)
@@ -46,27 +46,28 @@ module PagedMedia
         yaml = {}
 
         # stub in test output
-        yaml['paged_work'] = {}
-        yaml['paged_work']['title'] = ['TITLE MISSING']
-        yaml['paged_work']['creator'] = ['AUTHOR MISSING']
-        yaml['paged_work']['depositor'] = 'user@example.com'
-        yaml['paged_work']['edit_users'] = ['user@example.com']
-        yaml['paged_work']['visibility'] = 'open'
-        yaml['paged_work']['ordered_members'] = []
+        yaml['musical_score'] = {}
+        yaml['musical_score']['title'] = ['TITLE MISSING']
+        yaml['musical_score']['creator'] = ['AUTHOR MISSING']
+        yaml['musical_score']['depositor'] = 'user@example.com'
+        yaml['musical_score']['edit_users'] = ['user@example.com']
+        yaml['musical_score']['visibility'] = 'open'
+        yaml['musical_score']['ordered_members'] = []
 
         # parse real output
-        yaml['paged_work']['title'] = xml.xpath('/ScoreAccessPage/RecordSet/Container/DisplayTitle').map(&:content)
-        yaml['paged_work']['creator'] = xml.xpath('/ScoreAccessPage/Bibinfo/Author').map(&:content)
+        yaml['musical_score']['title'] = xml.xpath('/ScoreAccessPage/RecordSet/Container/DisplayTitle').map(&:content)
+        yaml['musical_score']['creator'] = xml.xpath('/ScoreAccessPage/Bibinfo/Author').map(&:content)
         structure = xml.xpath('/ScoreAccessPage/RecordSet/Container/Structure/Item').first
         s = Helpers.structure_to_array(structure)
-        yaml['paged_work']['ordered_members'] = s
+        yaml['musical_score']['ordered_members'] = s
 
 
         # save output
         p = Pathname.new(filename)
-        dirname = p.dirname.to_s
         basename = p.basename.to_s
-        yaml_file = "#{dirname}/manifest_#{basename.gsub('.xml','.yml')}"
+        output_dir = "spec/fixtures/ingest/#{basename.gsub('.xml','')}"
+        FileUtils.mkdir_p(output_dir) unless File.exists?(output_dir)
+        yaml_file = "#{output_dir}/manifest_#{basename.gsub('.xml','.yml')}"
         pp yaml
         puts "OUTPUT: #{yaml_file}"
         File.open(yaml_file, 'w') { |f| f.write yaml.to_yaml }

@@ -22,7 +22,7 @@ module PagedMedia
     end
     module Helpers
       def Helpers.ingest_folders
-        ingest_root = "spec/fixtures/ingest/paged_media/"
+        ingest_root = "spec/fixtures/ingest/"
         return Dir.glob(ingest_root + "*").select { |f| File.directory?(f) }
       end
       def Helpers.objects_from_hash(objects_hash)
