@@ -28,13 +28,25 @@ module PagedMedia::ObjectBehavior
   def relationship_tree(relationship_method, object_method, classes)
     process_list = self.send(relationship_method).to_a
     process_list.inject({}) do |h, m|
-      if classes.empty? || m.class.in?(classes) || classes.map { |c| m.is_a?(c) }.any?
+      if classes.empty? || classes.map { |c| m.is_a?(c) }.any?
         h[m.send(object_method)] = m.relationship_tree(relationship_method, object_method, classes)
         h
       else
         h.merge(m.relationship_tree(relationship_method, object_method, classes))
       end
     end
+  end
+
+  def cont_array
+    array = []
+    self.ordered_members.to_a.each do |container|
+      if container.class == Container
+        array << { "id" => container.id, "title" => container.title, "type" => "Container"}
+        children = container.cont_array
+        array << children if children.any?
+      end
+    end
+    array
   end
 
   # list descendents as objects
@@ -74,7 +86,7 @@ module PagedMedia::ObjectBehavior
   def relationship_list(relationship_method, object_method, classes)
     process_list = self.send(relationship_method).to_a
     process_list.inject([]) do |a, m|
-      a << m.send(object_method) if classes.empty? || m.class.in?(classes) || classes.map { |c| m.is_a?(c) }.any?
+      a << m.send(object_method) if classes.empty? || classes.map { |c| m.is_a?(c) }.any?
       a += m.relationship_list(relationship_method, object_method, classes)
     end
   end

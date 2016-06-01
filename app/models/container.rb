@@ -7,4 +7,8 @@ class Container < ActiveFedora::Base
   end
   validates :title, presence: { message: 'Your work must have a title.' }
 
+  def human_readable_type
+    'Container'
+  end
+
 end

@@ -4,4 +4,9 @@
 class CurationConcerns::<%= class_name.pluralize %>Controller < ApplicationController
   include CurationConcerns::CurationConcernController
   self.curation_concern_type = <%= class_name %>
+
+  def show
+    super
+    @cont_json = <%= class_name %>.find(@presenter.id).cont_array.to_json
+  end
 end
