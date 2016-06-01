@@ -1,0 +1,927 @@
+<ScoreAccessPage>
+  <HtmlPageStatus>None</HtmlPageStatus>
+  <Bibinfo>
+    <StmtResponsibility>di Ottorino Respighi</StmtResponsibility>
+    <Author>Respighi, Ottorino, 1879-1936</Author>
+  </Bibinfo>
+
+<RecordSet version="trunk">
+   <Container>
+      <DisplayTitle offset="0">Fontane di Roma ; poema sinfonico per orchestra</DisplayTitle>
+      <AdditionalTitles/>
+      <SeriesTitles/>
+      <Publisher>G. Ricordi</Publisher>
+      <Edition/>
+      <PublisherNumbers>
+         <PublisherNumber>G. Ricordi:P.R.206</PublisherNumber>
+      </PublisherNumbers>
+      <DocumentInfos>
+         <DocumentInfo>
+            <Type>Score</Type>
+            <Format>Full Score</Format>
+            <Description>1 score (64 p.) ; 32 cm</Description>
+         </DocumentInfo>
+      </DocumentInfos>
+      <Languages>
+         <Language>
+            <Context>Notes</Context>
+            <Language>English</Language>
+         </Language>
+         <Language>
+            <Context>Notes</Context>
+            <Language>German</Language>
+         </Language>
+         <Language>
+            <Context>Notes</Context>
+            <Language>German</Language>
+         </Language>
+         <Language>
+            <Context>Notes</Context>
+            <Language>French</Language>
+         </Language>
+      </Languages>
+      <PublicationDate>1947, c1918</PublicationDate>
+      <CopyrightDate/>
+      <PublicationPlace>Milano ; New York</PublicationPlace>
+      <BibliographicNotes>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>BM: 900615</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>BM: 900615</Text>
+         </BibliographicNote>
+      </BibliographicNotes>
+      <Structure label="Fontane di Roma ; poema sinfonico per orchestra">
+         <Item label="Fontane di Roma ; poema sinfonico per orchestra">
+            <Div label="[Title Page and Copyright Page]">
+               <Chunk label="[i]">
+                  <ContentInterval begin="0" end="1" mediaRef="IU/MediaObject/404811"/>
+               </Chunk>
+               <Chunk label="[ii]">
+                  <ContentInterval begin="1" end="2" mediaRef="IU/MediaObject/404811"/>
+               </Chunk>
+            </Div>
+            <Div label="[Notes]">
+               <Chunk label="[iii]">
+                  <ContentInterval begin="2" end="3" mediaRef="IU/MediaObject/404811"/>
+               </Chunk>
+               <Chunk label="[iv]">
+                  <ContentInterval begin="3" end="4" mediaRef="IU/MediaObject/404811"/>
+               </Chunk>
+            </Div>
+            <Div label="[Orchestration]">
+               <Chunk label="[v]">
+                  <ContentInterval begin="4" end="5" mediaRef="IU/MediaObject/404811"/>
+               </Chunk>
+               <Chunk label="[vi]">
+                  <ContentInterval begin="5" end="6" mediaRef="IU/MediaObject/404811"/>
+               </Chunk>
+            </Div>
+            <Div label="Fontane de Roma : Poema Sinfonico">
+               <Div label="La fontana di Valle Giulia all'alba">
+                  <Chunk label="1">
+                     <ContentInterval begin="6" end="7" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="2">
+                     <ContentInterval begin="7" end="8" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="3">
+                     <ContentInterval begin="8" end="9" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="4">
+                     <ContentInterval begin="9" end="10" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="5">
+                     <ContentInterval begin="10" end="11" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="6">
+                     <ContentInterval begin="11" end="12" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="7">
+                     <ContentInterval begin="12" end="13" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="8">
+                     <ContentInterval begin="13" end="14" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="9">
+                     <ContentInterval begin="14" end="15" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+               </Div>
+               <Div label="La fontana del Tritone al mattino">
+                  <Chunk label="10">
+                     <ContentInterval begin="15" end="16" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="11">
+                     <ContentInterval begin="16" end="17" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="12">
+                     <ContentInterval begin="17" end="18" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="13">
+                     <ContentInterval begin="18" end="19" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="14">
+                     <ContentInterval begin="19" end="20" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="15">
+                     <ContentInterval begin="20" end="21" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="16">
+                     <ContentInterval begin="21" end="22" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="17">
+                     <ContentInterval begin="22" end="23" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="18">
+                     <ContentInterval begin="23" end="24" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="19">
+                     <ContentInterval begin="24" end="25" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="20">
+                     <ContentInterval begin="25" end="26" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="21">
+                     <ContentInterval begin="26" end="27" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="22">
+                     <ContentInterval begin="27" end="28" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="23">
+                     <ContentInterval begin="28" end="29" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="24">
+                     <ContentInterval begin="29" end="30" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="25">
+                     <ContentInterval begin="30" end="31" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="26">
+                     <ContentInterval begin="31" end="32" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="27">
+                     <ContentInterval begin="32" end="33" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+               </Div>
+               <Div label="La fontana di Trevi al meriggio">
+                  <Chunk label="28">
+                     <ContentInterval begin="33" end="34" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="29">
+                     <ContentInterval begin="34" end="35" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="30">
+                     <ContentInterval begin="35" end="36" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="31">
+                     <ContentInterval begin="36" end="37" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="32">
+                     <ContentInterval begin="37" end="38" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="33">
+                     <ContentInterval begin="38" end="39" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="34">
+                     <ContentInterval begin="39" end="40" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="35">
+                     <ContentInterval begin="40" end="41" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="36">
+                     <ContentInterval begin="41" end="42" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="37">
+                     <ContentInterval begin="42" end="43" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="38">
+                     <ContentInterval begin="43" end="44" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="39">
+                     <ContentInterval begin="44" end="45" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="40">
+                     <ContentInterval begin="45" end="46" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="41">
+                     <ContentInterval begin="46" end="47" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="42">
+                     <ContentInterval begin="47" end="48" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="43">
+                     <ContentInterval begin="48" end="49" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="44">
+                     <ContentInterval begin="49" end="50" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="45">
+                     <ContentInterval begin="50" end="51" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="46">
+                     <ContentInterval begin="51" end="52" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="47">
+                     <ContentInterval begin="52" end="53" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="48">
+                     <ContentInterval begin="53" end="54" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="49">
+                     <ContentInterval begin="54" end="55" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="50">
+                     <ContentInterval begin="55" end="56" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="51">
+                     <ContentInterval begin="56" end="57" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="52">
+                     <ContentInterval begin="57" end="58" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+               </Div>
+               <Div label="La fontana di Villa Medici al tramonto">
+                  <Chunk label="53">
+                     <ContentInterval begin="58" end="59" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="54">
+                     <ContentInterval begin="59" end="60" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="55">
+                     <ContentInterval begin="60" end="61" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="56">
+                     <ContentInterval begin="61" end="62" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="57">
+                     <ContentInterval begin="62" end="63" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="58">
+                     <ContentInterval begin="63" end="64" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="59">
+                     <ContentInterval begin="64" end="65" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="60">
+                     <ContentInterval begin="65" end="66" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="61">
+                     <ContentInterval begin="66" end="67" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="62">
+                     <ContentInterval begin="67" end="68" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="63">
+                     <ContentInterval begin="68" end="69" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+                  <Chunk label="64">
+                     <ContentInterval begin="69" end="70" mediaRef="IU/MediaObject/404811"/>
+                  </Chunk>
+               </Div>
+            </Div>
+         </Item>
+      </Structure>
+      <Contributions/>
+      <InstantiationRefs>
+         <InstantiationRef>IU/Instantiation/432532</InstantiationRef>
+      </InstantiationRefs>
+      <MediaObjectRefs>
+         <MediaObjectRef>IU/MediaObject/404811</MediaObjectRef>
+      </MediaObjectRefs>
+      <PhysicalID>
+         <Location>IU Music Library</Location>
+         <CallNumber>M1002.R434 F6 R5 1947</CallNumber>
+         <CopyNumber>1</CopyNumber>
+      </PhysicalID>
+      <PhysicalCondition/>
+      <HoldingStatus>Publicly available</HoldingStatus>
+      <Isbn/>
+      <Upc/>
+      <Ismn/>
+      <CopyrightDecls>
+         <CopyrightDecl>
+            <Owner>G. Ricordi &amp; Co.</Owner>
+            <Domain>Container</Domain>
+            <Date>1918</Date>
+         </CopyrightDecl>
+      </CopyrightDecls>
+      <PublicDomain>Unknown</PublicDomain>
+      <OtherSystemIds>
+         <OtherSystemId>(Variations)bhr9405</OtherSystemId>
+         <OtherSystemId>(InU)BHR9405BM</OtherSystemId>
+         <OtherSystemId>(OCoLC)ocm09430539</OtherSystemId>
+      </OtherSystemIds>
+      <Id>IU/Container/404807</Id>
+      <CreationInfo>
+         <User>epeebles@IU.EDU</User>
+         <Timestamp>2007-11-14 15:46:00.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>schmiecs@IU.EDU</User>
+         <Timestamp>2012-06-25 15:30:20.869</Timestamp>
+      </UpdateInfo>
+      <Status>Minimal</Status>
+   </Container>
+   <MediaObject>
+      <Label>BHR9405</Label>
+      <FileFormat>image/x.djvu</FileFormat>
+      <Compression/>
+      <BitDepth/>
+      <Resolution/>
+      <ChannelCount>0</ChannelCount>
+      <SampleSize>0</SampleSize>
+      <SampleRate>0</SampleRate>
+      <Environment>Fujitsu Model fi4750C</Environment>
+      <DigitizationDate>2007-11-14</DigitizationDate>
+      <DigitizedBy>epeebles@IU.EDU</DigitizedBy>
+      <AccessCount>0</AccessCount>
+      <FileInfos>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-1.djvu</FileName>
+            <Checksum>FXJcA+AOLEWfKLZgr/g/Lw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-2.djvu</FileName>
+            <Checksum>o/mDr11aicH0dTlGK7yeNA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-3.djvu</FileName>
+            <Checksum>grASE1rVo1Dh+XZw7HcQzw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-4.djvu</FileName>
+            <Checksum>n4b9UqMsf+lXANkkCM9/hw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-5.djvu</FileName>
+            <Checksum>ruFuWxuwMzf66fdIvoqbkg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-6.djvu</FileName>
+            <Checksum>HPW1qrX4MyWlYSZ3TDtGXA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-7.djvu</FileName>
+            <Checksum>OcBMJjWQsheavWqDSHvx5Q==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-8.djvu</FileName>
+            <Checksum>x68xNkVnDbojZn788OFDyg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-9.djvu</FileName>
+            <Checksum>/BrnLNGlEQx59yEA+fe6dQ==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-10.djvu</FileName>
+            <Checksum>u7NBZSu1bN36Hdg4cfBhTg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-11.djvu</FileName>
+            <Checksum>x259WPL4gL3aazkuV5P3Aw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-12.djvu</FileName>
+            <Checksum>E060hf4sqP12nlwmMek8hA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-13.djvu</FileName>
+            <Checksum>x6HiLTbS6aYU12MZfjllOA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-14.djvu</FileName>
+            <Checksum>R9utGDWXKfwBeSCdS+5ROA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-15.djvu</FileName>
+            <Checksum>vsOeUFowNT0bHreD3+dnxA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-16.djvu</FileName>
+            <Checksum>kbUCWeK5kwcJHkr4QM2dMA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-17.djvu</FileName>
+            <Checksum>GduoJx9tR6WYCGdgso4Ovg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-18.djvu</FileName>
+            <Checksum>crciU3JSVQA4xGM4OybUXA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-19.djvu</FileName>
+            <Checksum>G8EQdjyVtin1Vh1faFYmJQ==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-20.djvu</FileName>
+            <Checksum>VMJTnKnUX+D/ICmNVKtguw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-21.djvu</FileName>
+            <Checksum>w1JxX9ZQ0zJpaX+RFhQ5Tw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-22.djvu</FileName>
+            <Checksum>0Lqob8Ig0U8MnnTcJXkn7w==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-23.djvu</FileName>
+            <Checksum>2KXQncDeIHrcId21ZwUsHw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-24.djvu</FileName>
+            <Checksum>9KicvVREX9PTip+QApDN6g==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-25.djvu</FileName>
+            <Checksum>PDdlHpcy20FvWPrhH1dmwg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-26.djvu</FileName>
+            <Checksum>7Yp6uSrDcfgqJJg2sShgrQ==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-27.djvu</FileName>
+            <Checksum>Pr3mfXUxH8arz4eUj5tyJQ==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-28.djvu</FileName>
+            <Checksum>YmH7dR8NK+qz8N6+PR/MeQ==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-29.djvu</FileName>
+            <Checksum>c0uF8DciQ5+NVe0G6h4nqA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-30.djvu</FileName>
+            <Checksum>COLkN3XTM8vIHUKELeY/Ww==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-31.djvu</FileName>
+            <Checksum>8beL4zo6M9Lv/oKLeLzwaA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-32.djvu</FileName>
+            <Checksum>8pDEn6NZOEUARWHJXNMYDw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-33.djvu</FileName>
+            <Checksum>DypebauilbtSY4ArtL7n9Q==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-34.djvu</FileName>
+            <Checksum>xuxBA8gDvRxU67RMBvk4cg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-35.djvu</FileName>
+            <Checksum>U5b0yAJYH3PDjy4a7fhtTA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-36.djvu</FileName>
+            <Checksum>k60yZCUfBxyjYD2Pv7nxYw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-37.djvu</FileName>
+            <Checksum>x0vhGzN2GFTG03p7pSIWbQ==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-38.djvu</FileName>
+            <Checksum>kjvyaPwzTP7h43MgfMP5bA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-39.djvu</FileName>
+            <Checksum>osBTZvX+u8iybUZpB4D6mg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-40.djvu</FileName>
+            <Checksum>kE0Vw65Gyz8gPiFKopHC+A==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-41.djvu</FileName>
+            <Checksum>IIdRRCE5p/LvI7f5qAe2ag==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-42.djvu</FileName>
+            <Checksum>B8rPGSPXM1ALXJtrmssIDA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-43.djvu</FileName>
+            <Checksum>Z4wsaCquQFb3PKYLkf2umw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-44.djvu</FileName>
+            <Checksum>u/Tai/xJ1z5+D/VyibOMiA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-45.djvu</FileName>
+            <Checksum>kCqqAPI2ubV4wy+2FqXzYg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-46.djvu</FileName>
+            <Checksum>mGU3TF5ImJHTElmODB6BeQ==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-47.djvu</FileName>
+            <Checksum>0epSQ0fmBfWwtkO1hD65gg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-48.djvu</FileName>
+            <Checksum>tP+4sRgCYdbQppl6/++IMg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-49.djvu</FileName>
+            <Checksum>1xRf1eeAJZg5vIX9LPdSAg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-50.djvu</FileName>
+            <Checksum>HTF1AhTfEsS6PdrmiKce6A==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-51.djvu</FileName>
+            <Checksum>Y+xy7dHw3wyjX2H2feCoKg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-52.djvu</FileName>
+            <Checksum>oXYtTgDacm1tGJCZZX7PvA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-53.djvu</FileName>
+            <Checksum>yhXNtwkTRLaSy3VkBvfsyQ==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-54.djvu</FileName>
+            <Checksum>fd0InxuFNBTKzmp0zWDhzA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-55.djvu</FileName>
+            <Checksum>q4FKkr3hDPBEDS1knAJfkg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-56.djvu</FileName>
+            <Checksum>zjz92X1I29AEfcxVwmHVpg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-57.djvu</FileName>
+            <Checksum>IBykEVZNRod9ZR9j8IRMsg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-58.djvu</FileName>
+            <Checksum>VYBJA9b/9+FJXtXIZZjnTA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-59.djvu</FileName>
+            <Checksum>uxHSOW7kqAVo61Q6IkXiiA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-60.djvu</FileName>
+            <Checksum>Po+UOsqjKyikmzYBYldqbw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-61.djvu</FileName>
+            <Checksum>GWjl5HniF7s/V/11P1gG8A==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-62.djvu</FileName>
+            <Checksum>vst2Zq2dVQgR5Hlcz/ezdQ==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-63.djvu</FileName>
+            <Checksum>8BDkPwVrdl8KLGreofmmyw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-64.djvu</FileName>
+            <Checksum>sll+FG/VivQL1DanGHLAlw==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-65.djvu</FileName>
+            <Checksum>uZWDTmEdJuOCUkcHG/iwjg==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-66.djvu</FileName>
+            <Checksum>vmdu84e2Uwzx4O37iZiqsA==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-67.djvu</FileName>
+            <Checksum>yphN8NnTyxmmxnOpq1Cu/Q==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-68.djvu</FileName>
+            <Checksum>TiRZX8xMsfEj4TKenDe1DQ==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-69.djvu</FileName>
+            <Checksum>qTyoBo2gkeMiYj6x0rhm2A==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bhr9405-1-70.djvu</FileName>
+            <Checksum>Jn8Qd5Fm9MMdzmzYFV0eng==</Checksum>
+            <Creation>2008-08-29 12:09:46.0</Creation>
+            <Update>2008-08-29 12:09:46.0</Update>
+         </FileInfo>
+      </FileInfos>
+      <Id>IU/MediaObject/404811</Id>
+      <CreationInfo>
+         <User>epeebles@IU.EDU</User>
+         <Timestamp>2007-11-14 15:56:16.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>schmiecs@IU.EDU</User>
+         <Timestamp>2012-06-25 15:30:20.0</Timestamp>
+      </UpdateInfo>
+      <Status>Complete</Status>
+   </MediaObject>
+   <SetInfo>
+      <TextMatches/>
+      <ThemeBaseURL>http://variations-prod-web.dlib.indiana.edu/variations/themes/</ThemeBaseURL>
+      <AvailableMediaItems>
+         <AllItemsAvailable>true</AllItemsAvailable>
+      </AvailableMediaItems>
+   </SetInfo>
+</RecordSet>
+
+<AccompanyingMaterials>
+
+</AccompanyingMaterials>
+
+
+</ScoreAccessPage>

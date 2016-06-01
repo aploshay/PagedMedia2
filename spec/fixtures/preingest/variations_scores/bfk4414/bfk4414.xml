@@ -1,0 +1,2480 @@
+<ScoreAccessPage>
+  <HtmlPageStatus>None</HtmlPageStatus>
+  <Bibinfo>
+    <StmtResponsibility>Ludwig van Beethoven ; edited by Elliot Forbes</StmtResponsibility>
+    <Author>Beethoven, Ludwig van, 1770-1827</Author>
+  </Bibinfo>
+
+<RecordSet version="trunk">
+   <Container>
+      <DisplayTitle offset="0">Symphony no. 5 in C minor : an authoritative score, the sketches, historical background, analysis, views and comments</DisplayTitle>
+      <SeriesTitles>
+         <SeriesTitle offset="0">Norton critical scores</SeriesTitle>
+         <SeriesTitle offset="0">Norton critical scores</SeriesTitle>
+      </SeriesTitles>
+      <Publisher>Norton</Publisher>
+      <Edition>1st ed</Edition>
+      <DocumentInfos>
+         <DocumentInfo>
+            <Type>Score</Type>
+            <Format>Full Score</Format>
+            <Description>1 miniature score (vi, 202 p.) ; 22 cm</Description>
+         </DocumentInfo>
+      </DocumentInfos>
+      <PublicationDate>1971</PublicationDate>
+      <CopyrightDate>1971</CopyrightDate>
+      <PublicationPlace>New York</PublicationPlace>
+      <BibliographicNotes>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>TWO COPIES -- ADDED COPIES: OK to dup. for Music -- $7.95 each</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Bibliography: p. 201-202</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>BM: 900118</Text>
+         </BibliographicNote>
+      </BibliographicNotes>
+      <Structure label="Symphony no. 5 in C minor : an authoritative score, the sketches, historical background, analysis, views and comments">
+         <Item label="Symphony no. 5 in C minor : an authoritative score, the sketches, historical background, analysis, views and comments">
+            <Div label="[Half title page]">
+               <Chunk label="[i]">
+                  <ContentInterval begin="0" end="1" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+            </Div>
+            <Div label="[Series contents]">
+               <Chunk label="[ii]">
+                  <ContentInterval begin="1" end="2" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+            </Div>
+            <Div label="[Title page]">
+               <Chunk label="[iii]">
+                  <ContentInterval begin="2" end="3" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+            </Div>
+            <Div label="[Copyright statement]">
+               <Chunk label="[iv]">
+                  <ContentInterval begin="3" end="4" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+            </Div>
+            <Div label="Contents">
+               <Chunk label="v">
+                  <ContentInterval begin="4" end="5" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+            </Div>
+            <Div label="Preface">
+               <Chunk label="vi">
+                  <ContentInterval begin="5" end="6" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+            </Div>
+            <Div label="Historical Background">
+               <Div label="[Half title page]">
+                  <Chunk label="[1]">
+                     <ContentInterval begin="6" end="7" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Blank]">
+                  <Chunk label="[2]">
+                     <ContentInterval begin="7" end="8" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Historical Background">
+                  <Chunk label="3">
+                     <ContentInterval begin="8" end="9" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="4">
+                     <ContentInterval begin="9" end="10" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="5">
+                     <ContentInterval begin="10" end="11" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="6">
+                     <ContentInterval begin="11" end="12" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="7">
+                     <ContentInterval begin="12" end="13" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="8">
+                     <ContentInterval begin="13" end="14" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="9">
+                     <ContentInterval begin="14" end="15" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="10">
+                     <ContentInterval begin="15" end="16" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="11">
+                     <ContentInterval begin="16" end="17" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="12">
+                     <ContentInterval begin="17" end="18" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="13">
+                     <ContentInterval begin="18" end="19" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="14">
+                     <ContentInterval begin="19" end="20" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="15">
+                     <ContentInterval begin="20" end="21" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="16">
+                     <ContentInterval begin="21" end="22" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+            </Div>
+            <Div label="The Score of the Symphony">
+               <Div label="[Half title page]">
+                  <Chunk label="[17]">
+                     <ContentInterval begin="22" end="23" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Instrumentation">
+                  <Chunk label="[18]">
+                     <ContentInterval begin="23" end="24" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Symphony No.5  in C Minor">
+                  <Div label="I: Allegro con brio">
+                     <Chunk label="19">
+                        <ContentInterval begin="24" end="25" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="20">
+                        <ContentInterval begin="25" end="26" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="21">
+                        <ContentInterval begin="26" end="27" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="22">
+                        <ContentInterval begin="27" end="28" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="23">
+                        <ContentInterval begin="28" end="29" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="24">
+                        <ContentInterval begin="29" end="30" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="25">
+                        <ContentInterval begin="30" end="31" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="26">
+                        <ContentInterval begin="31" end="32" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="27">
+                        <ContentInterval begin="32" end="33" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="28">
+                        <ContentInterval begin="33" end="34" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="29">
+                        <ContentInterval begin="34" end="35" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="30">
+                        <ContentInterval begin="35" end="36" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="31">
+                        <ContentInterval begin="36" end="37" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="32">
+                        <ContentInterval begin="37" end="38" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="33">
+                        <ContentInterval begin="38" end="39" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="34">
+                        <ContentInterval begin="39" end="40" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="35">
+                        <ContentInterval begin="40" end="41" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="36">
+                        <ContentInterval begin="41" end="42" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="37">
+                        <ContentInterval begin="42" end="43" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="II: Andante con moto">
+                     <Chunk label="38">
+                        <ContentInterval begin="43" end="44" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="39">
+                        <ContentInterval begin="44" end="45" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="40">
+                        <ContentInterval begin="45" end="46" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="41">
+                        <ContentInterval begin="46" end="47" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="42">
+                        <ContentInterval begin="47" end="48" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="43">
+                        <ContentInterval begin="48" end="49" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="44">
+                        <ContentInterval begin="49" end="50" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="45">
+                        <ContentInterval begin="50" end="51" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="46">
+                        <ContentInterval begin="51" end="52" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="47">
+                        <ContentInterval begin="52" end="53" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="48">
+                        <ContentInterval begin="53" end="54" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="49">
+                        <ContentInterval begin="54" end="55" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="50">
+                        <ContentInterval begin="55" end="56" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="51">
+                        <ContentInterval begin="56" end="57" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="52">
+                        <ContentInterval begin="57" end="58" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="III: Allegro">
+                     <Chunk label="53">
+                        <ContentInterval begin="58" end="59" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="54">
+                        <ContentInterval begin="59" end="60" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="55">
+                        <ContentInterval begin="60" end="61" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="56">
+                        <ContentInterval begin="61" end="62" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="57">
+                        <ContentInterval begin="62" end="63" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="58">
+                        <ContentInterval begin="63" end="64" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="59">
+                        <ContentInterval begin="64" end="65" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="60">
+                        <ContentInterval begin="65" end="66" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="61">
+                        <ContentInterval begin="66" end="67" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="62">
+                        <ContentInterval begin="67" end="68" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="63">
+                        <ContentInterval begin="68" end="69" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="64">
+                        <ContentInterval begin="69" end="70" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="65">
+                        <ContentInterval begin="70" end="71" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="66">
+                        <ContentInterval begin="71" end="72" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="67">
+                        <ContentInterval begin="72" end="73" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="IV: Allegro">
+                     <Chunk label="68">
+                        <ContentInterval begin="73" end="74" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="69">
+                        <ContentInterval begin="74" end="75" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="70">
+                        <ContentInterval begin="75" end="76" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="71">
+                        <ContentInterval begin="76" end="77" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="72">
+                        <ContentInterval begin="77" end="78" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="73">
+                        <ContentInterval begin="78" end="79" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="74">
+                        <ContentInterval begin="79" end="80" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="75">
+                        <ContentInterval begin="80" end="81" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="76">
+                        <ContentInterval begin="81" end="82" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="77">
+                        <ContentInterval begin="82" end="83" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="78">
+                        <ContentInterval begin="83" end="84" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="79">
+                        <ContentInterval begin="84" end="85" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="80">
+                        <ContentInterval begin="85" end="86" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="81">
+                        <ContentInterval begin="86" end="87" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="82">
+                        <ContentInterval begin="87" end="88" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="83">
+                        <ContentInterval begin="88" end="89" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="84">
+                        <ContentInterval begin="89" end="90" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="85">
+                        <ContentInterval begin="90" end="91" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="86">
+                        <ContentInterval begin="91" end="92" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="87">
+                        <ContentInterval begin="92" end="93" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="88">
+                        <ContentInterval begin="93" end="94" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="89">
+                        <ContentInterval begin="94" end="95" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="90">
+                        <ContentInterval begin="95" end="96" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="91">
+                        <ContentInterval begin="96" end="97" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="92">
+                        <ContentInterval begin="97" end="98" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="93">
+                        <ContentInterval begin="98" end="99" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="94">
+                        <ContentInterval begin="99" end="100" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="95">
+                        <ContentInterval begin="100" end="101" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="96">
+                        <ContentInterval begin="101" end="102" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="97">
+                        <ContentInterval begin="102" end="103" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="98">
+                        <ContentInterval begin="103" end="104" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="99">
+                        <ContentInterval begin="104" end="105" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="100">
+                        <ContentInterval begin="105" end="106" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="101">
+                        <ContentInterval begin="106" end="107" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="102">
+                        <ContentInterval begin="107" end="108" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="103">
+                        <ContentInterval begin="108" end="109" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="104">
+                        <ContentInterval begin="109" end="110" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="105">
+                        <ContentInterval begin="110" end="111" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="106">
+                        <ContentInterval begin="111" end="112" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="107">
+                        <ContentInterval begin="112" end="113" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="108">
+                        <ContentInterval begin="113" end="114" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="109">
+                        <ContentInterval begin="114" end="115" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="110">
+                        <ContentInterval begin="115" end="116" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="111">
+                        <ContentInterval begin="116" end="117" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="112">
+                        <ContentInterval begin="117" end="118" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="113">
+                        <ContentInterval begin="118" end="119" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="114">
+                        <ContentInterval begin="119" end="120" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="115">
+                        <ContentInterval begin="120" end="121" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                     <Chunk label="116">
+                        <ContentInterval begin="121" end="122" mediaRef="IU/MediaObject/553986"/>
+                     </Chunk>
+                  </Div>
+               </Div>
+            </Div>
+            <Div label="The Sketches">
+               <Chunk label="117">
+                  <ContentInterval begin="122" end="123" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="118">
+                  <ContentInterval begin="123" end="124" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="119">
+                  <ContentInterval begin="124" end="125" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="120">
+                  <ContentInterval begin="125" end="126" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="121">
+                  <ContentInterval begin="126" end="127" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="122">
+                  <ContentInterval begin="127" end="128" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="123">
+                  <ContentInterval begin="128" end="129" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="124">
+                  <ContentInterval begin="129" end="130" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="125">
+                  <ContentInterval begin="130" end="131" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="126">
+                  <ContentInterval begin="131" end="132" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="127">
+                  <ContentInterval begin="132" end="133" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="128">
+                  <ContentInterval begin="133" end="134" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+            </Div>
+            <Div label="Textual Note">
+               <Chunk label="129">
+                  <ContentInterval begin="134" end="135" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="130">
+                  <ContentInterval begin="135" end="136" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="131">
+                  <ContentInterval begin="136" end="137" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="132">
+                  <ContentInterval begin="137" end="138" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="133">
+                  <ContentInterval begin="138" end="139" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="134">
+                  <ContentInterval begin="139" end="140" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="135">
+                  <ContentInterval begin="140" end="141" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="136">
+                  <ContentInterval begin="141" end="142" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="137">
+                  <ContentInterval begin="142" end="143" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="138">
+                  <ContentInterval begin="143" end="144" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="139">
+                  <ContentInterval begin="144" end="145" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="140">
+                  <ContentInterval begin="145" end="146" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+            </Div>
+            <Div label="Analysis">
+               <Div label="[Half title page]">
+                  <Chunk label="[141]">
+                     <ContentInterval begin="146" end="147" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="[verso]">
+                  <Chunk label="[142]">
+                     <ContentInterval begin="147" end="148" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Donald Francis Tovey, [The Fifth Symphony]">
+                  <Chunk label="143">
+                     <ContentInterval begin="148" end="149" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="144">
+                     <ContentInterval begin="149" end="150" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="145">
+                     <ContentInterval begin="150" end="151" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="146">
+                     <ContentInterval begin="151" end="152" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="147">
+                     <ContentInterval begin="152" end="153" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="148">
+                     <ContentInterval begin="153" end="154" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="149">
+                     <ContentInterval begin="154" end="155" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="E.T.A. Hoffmann, [Review of the Fifth Symphony]">
+                  <Chunk label="150">
+                     <ContentInterval begin="155" end="156" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="151">
+                     <ContentInterval begin="156" end="157" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="152">
+                     <ContentInterval begin="157" end="158" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="153">
+                     <ContentInterval begin="158" end="159" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="154">
+                     <ContentInterval begin="159" end="160" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="155">
+                     <ContentInterval begin="160" end="161" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="156">
+                     <ContentInterval begin="161" end="162" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="157">
+                     <ContentInterval begin="162" end="163" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="158">
+                     <ContentInterval begin="163" end="164" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="159">
+                     <ContentInterval begin="164" end="165" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="160">
+                     <ContentInterval begin="165" end="166" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="161">
+                     <ContentInterval begin="166" end="167" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="162">
+                     <ContentInterval begin="167" end="168" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="163">
+                     <ContentInterval begin="168" end="169" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Heinrich Schenker, [Analysis of the First Movement]">
+                  <Chunk label="164">
+                     <ContentInterval begin="169" end="170" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="165">
+                     <ContentInterval begin="170" end="171" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="166">
+                     <ContentInterval begin="171" end="172" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="167">
+                     <ContentInterval begin="172" end="173" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="168">
+                     <ContentInterval begin="173" end="174" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="169">
+                     <ContentInterval begin="174" end="175" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="170">
+                     <ContentInterval begin="175" end="176" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="171">
+                     <ContentInterval begin="176" end="177" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="172">
+                     <ContentInterval begin="177" end="178" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="173">
+                     <ContentInterval begin="178" end="179" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="174">
+                     <ContentInterval begin="179" end="180" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="175">
+                     <ContentInterval begin="180" end="181" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="176">
+                     <ContentInterval begin="181" end="182" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="177">
+                     <ContentInterval begin="182" end="183" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="178">
+                     <ContentInterval begin="183" end="184" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="179">
+                     <ContentInterval begin="184" end="185" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="180">
+                     <ContentInterval begin="185" end="186" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="181">
+                     <ContentInterval begin="186" end="187" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="182">
+                     <ContentInterval begin="187" end="188" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+            </Div>
+            <Div label="Views and Comments">
+               <Div label="[Half title page]">
+                  <Chunk label="[183]">
+                     <ContentInterval begin="188" end="189" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="[verso]">
+                  <Chunk label="[184]">
+                     <ContentInterval begin="189" end="190" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Anton Schindler">
+                  <Chunk label="185">
+                     <ContentInterval begin="190" end="191" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Ludwig Spohr">
+                  <Chunk label="186">
+                     <ContentInterval begin="191" end="192" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Hector Berlioz">
+                  <Chunk label="187">
+                     <ContentInterval begin="192" end="193" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="188">
+                     <ContentInterval begin="193" end="194" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="189">
+                     <ContentInterval begin="194" end="195" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Felix Mendelssohn">
+                  <Chunk label="190">
+                     <ContentInterval begin="195" end="196" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Richard Wagner">
+                  <Chunk label="191">
+                     <ContentInterval begin="196" end="197" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="192">
+                     <ContentInterval begin="197" end="198" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="193">
+                     <ContentInterval begin="198" end="199" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Felix Weingartner">
+                  <Chunk label="194">
+                     <ContentInterval begin="199" end="200" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="195">
+                     <ContentInterval begin="200" end="201" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="196">
+                     <ContentInterval begin="201" end="202" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="197">
+                     <ContentInterval begin="202" end="203" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Donald Francis Tovey">
+                  <Chunk label="198">
+                     <ContentInterval begin="203" end="204" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+               <Div label="Edward T. Cone">
+                  <Chunk label="199">
+                     <ContentInterval begin="204" end="205" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+                  <Chunk label="200">
+                     <ContentInterval begin="205" end="206" mediaRef="IU/MediaObject/553986"/>
+                  </Chunk>
+               </Div>
+            </Div>
+            <Div label="Bibliography">
+               <Chunk label="201">
+                  <ContentInterval begin="206" end="207" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+               <Chunk label="202">
+                  <ContentInterval begin="207" end="208" mediaRef="IU/MediaObject/553986"/>
+               </Chunk>
+            </Div>
+         </Item>
+      </Structure>
+      <MediaObjectRefs>
+         <MediaObjectRef>IU/MediaObject/553986</MediaObjectRef>
+      </MediaObjectRefs>
+      <PhysicalID>
+         <Location>IU Music Library</Location>
+         <CallNumber>M1001 .B4 no.5 N6 (miniature scores)</CallNumber>
+         <CopyNumber>1</CopyNumber>
+      </PhysicalID>
+      <PhysicalCondition/>
+      <HoldingStatus>Restricted access</HoldingStatus>
+      <CopyrightDecls>
+         <CopyrightDecl>
+            <Owner>(c) 1971, W.W. Norton and Company, Inc.</Owner>
+            <Domain>Item</Domain>
+         </CopyrightDecl>
+      </CopyrightDecls>
+      <PublicDomain>Unknown</PublicDomain>
+      <OtherSystemIds>
+         <OtherSystemId>(Variations)bfk4414</OtherSystemId>
+         <OtherSystemId>(InU)BFK4414BM</OtherSystemId>
+         <OtherSystemId>(OCoLC)ocm01710736</OtherSystemId>
+         <OtherSystemId>(DLC)73098890 /M/r842</OtherSystemId>
+      </OtherSystemIds>
+      <Id>IU/Container/553983</Id>
+      <CreationInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2013-08-19 12:58:47.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2013-08-19 13:19:58.037</Timestamp>
+      </UpdateInfo>
+      <Status>Import only</Status>
+   </Container>
+   <MediaObject>
+      <Label>BFK4414</Label>
+      <FileFormat>image/x.djvu</FileFormat>
+      <ChannelCount>0</ChannelCount>
+      <SampleSize>0</SampleSize>
+      <SampleRate>0</SampleRate>
+      <Environment/>
+      <DigitizationDate>2013-08-19</DigitizationDate>
+      <DigitizedBy>darnelso@IU.EDU</DigitizedBy>
+      <AccessCount>0</AccessCount>
+      <FileInfos>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-1.djvu</FileName>
+            <Checksum>bze4MBPLGPBH+HarkFX1cg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-2.djvu</FileName>
+            <Checksum>Zsacoa+36OsqOZj3CIu35Q==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-3.djvu</FileName>
+            <Checksum>Fnl+CjhjV0uRzSVfun/uWQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-4.djvu</FileName>
+            <Checksum>wEsTuF/X82ZmQRT38Srlyw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-5.djvu</FileName>
+            <Checksum>zeq9hcaaIfhbyTchrjJT9Q==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-6.djvu</FileName>
+            <Checksum>JpTPgD6tUaMtxIOwCkKEjQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-7.djvu</FileName>
+            <Checksum>+UxHuZ35w8Zp8CVP5n0jfw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-8.djvu</FileName>
+            <Checksum>Ve+2k0TXY39Z7GrmhYkw7Q==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-9.djvu</FileName>
+            <Checksum>UuHJ1eR+8JY4PFFgddMfZQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-10.djvu</FileName>
+            <Checksum>LqAjbZt556g7pkVS1UNmSQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-11.djvu</FileName>
+            <Checksum>TcwGpQaCPn4vQcCKaHF2hQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-12.djvu</FileName>
+            <Checksum>cCZtHo801pxnaVTAlYZFrg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-13.djvu</FileName>
+            <Checksum>rYPkXey68kNfrOe1hJALVA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-14.djvu</FileName>
+            <Checksum>OfDSo1sziRFdZ3xkZy5jqQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-15.djvu</FileName>
+            <Checksum>HHwDbZV9WGOc3PKy4/fP7w==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-16.djvu</FileName>
+            <Checksum>K6umv8jCJJsrKxv2cRnpEg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-17.djvu</FileName>
+            <Checksum>gHJ01tutFnN3NlRc7+p7lQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-18.djvu</FileName>
+            <Checksum>liJR5luHXYOYPdJhwa85yg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-19.djvu</FileName>
+            <Checksum>546yjKeGRQyyi+KA3ueIjw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-20.djvu</FileName>
+            <Checksum>rlJXwR+izBMp+QTFMgq+TA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-21.djvu</FileName>
+            <Checksum>tqDOaKFDU628yJqwHR4UXA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-22.djvu</FileName>
+            <Checksum>MfhFZb0NeLKGr8H+9sZD1w==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-23.djvu</FileName>
+            <Checksum>B/hQqj3mouasMaoiHYFZTg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-24.djvu</FileName>
+            <Checksum>H+6FVuQdM+A2t24QPT/qlw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-25.djvu</FileName>
+            <Checksum>duogK6EBIU0CSwJpxno7SA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-26.djvu</FileName>
+            <Checksum>rPXgrLuns8TRu0/8KeDGIw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-27.djvu</FileName>
+            <Checksum>LtMXPmFoG/z0RQ+CQW1gug==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-28.djvu</FileName>
+            <Checksum>LZVVn/Rdyiwq6hDHNMlLBQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-29.djvu</FileName>
+            <Checksum>PMSfkrl8319T4RnRceRY3A==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-30.djvu</FileName>
+            <Checksum>JGBDFodDiiu9L4gLCng3Jg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-31.djvu</FileName>
+            <Checksum>fZECOzlVxDmieGNcea6cpQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-32.djvu</FileName>
+            <Checksum>iyITFYfq4dekccX24DLvLg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-33.djvu</FileName>
+            <Checksum>nBXCmXqLAmGRbrz/6pA/dw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-34.djvu</FileName>
+            <Checksum>fc0V1r50uKS60fNGKfcMaw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-35.djvu</FileName>
+            <Checksum>2ffmykaMBoq83yniemExtA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-36.djvu</FileName>
+            <Checksum>gru4oTqo8eQ9sO4VVpJXuQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-37.djvu</FileName>
+            <Checksum>dQNCPEqfssfVZ+uzGmUhOw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-38.djvu</FileName>
+            <Checksum>JQaKbgE8QqcCwI6YdXyGhw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-39.djvu</FileName>
+            <Checksum>W3NwUDFIW5Fmk8S8rtHXxA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-40.djvu</FileName>
+            <Checksum>WiQ/HwzM/BRiBE7XBOQ5Zg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-41.djvu</FileName>
+            <Checksum>ZoGFM0kx9wHGe0JpiDc6gw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-42.djvu</FileName>
+            <Checksum>ej6WIp6R26nsdXv3eH9+TA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-43.djvu</FileName>
+            <Checksum>t0OtQ8ZHbzKg3r2P1P83HQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-44.djvu</FileName>
+            <Checksum>/kNdbKeu5sKelrhz/UCoGQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-45.djvu</FileName>
+            <Checksum>iIDo0sc0CRt0lkbBepqVWQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-46.djvu</FileName>
+            <Checksum>XTl90HD/G5Qi+l52+uJ9dA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-47.djvu</FileName>
+            <Checksum>k/syvsmYGP+unN+9CrBVsw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-48.djvu</FileName>
+            <Checksum>G8K49xHFSioILYf107QiLw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-49.djvu</FileName>
+            <Checksum>gdnUM2wCXOtLTZI/YWNpSg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-50.djvu</FileName>
+            <Checksum>4/o2vbefyvlR+NkhM13Oqw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-51.djvu</FileName>
+            <Checksum>JGY1YlHtt7WwwyLkm5Oy1w==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-52.djvu</FileName>
+            <Checksum>BbFZGYp+NxbNo9bpXQNWGg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-53.djvu</FileName>
+            <Checksum>neSyyzuGw6V1KepJAuNcEg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-54.djvu</FileName>
+            <Checksum>30bzV0PGxEpmJ0GiJ+vwww==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-55.djvu</FileName>
+            <Checksum>swR6WbnWUnTclvSHowulbQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-56.djvu</FileName>
+            <Checksum>NfwRDaofLFzEsjvlmBqyKQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-57.djvu</FileName>
+            <Checksum>hYH/btkq5uREqsCT6u+okA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-58.djvu</FileName>
+            <Checksum>owgzDmTaBN2aJh3JV4Rolw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-59.djvu</FileName>
+            <Checksum>ObGrGQ+0gO9dF2yiHv4zSQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-60.djvu</FileName>
+            <Checksum>0Fq9pn59XK6RSb9cFQOC9A==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-61.djvu</FileName>
+            <Checksum>ls0DuKbgAtjjpZ726TyE8g==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-62.djvu</FileName>
+            <Checksum>jN6IAMfL18gIcc4OUaSTAQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-63.djvu</FileName>
+            <Checksum>tw6fT7yYUUMpjtyTPlI/iQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-64.djvu</FileName>
+            <Checksum>aU2LevT1etbH0KsdZ5rB8A==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-65.djvu</FileName>
+            <Checksum>mx3wH5ihQKkssCPl4COOgA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-66.djvu</FileName>
+            <Checksum>zoHpxElaelv995fW5pgkoQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-67.djvu</FileName>
+            <Checksum>BeeyJVBseOejWLk9sq0/Dw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-68.djvu</FileName>
+            <Checksum>opDS5MCAZif5t2HnZPSlhg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-69.djvu</FileName>
+            <Checksum>QmmWYegFP2ebD6RbcXGVbw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-70.djvu</FileName>
+            <Checksum>3qZOATUoMNNj+DYocL8OJA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-71.djvu</FileName>
+            <Checksum>lN3hyscF8FFT7umcDNzUDQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-72.djvu</FileName>
+            <Checksum>ucRhgRI3sMNiCltFoHp6/w==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-73.djvu</FileName>
+            <Checksum>P0SpYp9/BZSYctesI+VdNw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-74.djvu</FileName>
+            <Checksum>Sk8pTFGucxKGK6eAtUXGXw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-75.djvu</FileName>
+            <Checksum>wLybwi74RyHUchue8aRLNw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-76.djvu</FileName>
+            <Checksum>nC7N/7oo0bSSuGQ6R3IqQw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-77.djvu</FileName>
+            <Checksum>0q24WApuPKaHjUBLqlpenQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-78.djvu</FileName>
+            <Checksum>vHLNL5AjDVYI4xLT004cuA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-79.djvu</FileName>
+            <Checksum>+jV6NR9TCBOlVWgbvOgC4A==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-80.djvu</FileName>
+            <Checksum>psjpSvmFboFmca5es8l8Rw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-81.djvu</FileName>
+            <Checksum>ms3z2n8TG92boxcmxiu+8A==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-82.djvu</FileName>
+            <Checksum>m8TeypAc2YZD8XmeggtA+w==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-83.djvu</FileName>
+            <Checksum>AibjjiurXyJl6b8j721NRQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-84.djvu</FileName>
+            <Checksum>GXVt9q+jKs7M4snsb7+WNA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-85.djvu</FileName>
+            <Checksum>0NVOrpHoFL0dDXbIQ4bk5w==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-86.djvu</FileName>
+            <Checksum>oig4qsSkX1pfDZp5e4RBBQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-87.djvu</FileName>
+            <Checksum>08bd9x6JxaAHYNwtS+zYEw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-88.djvu</FileName>
+            <Checksum>+ICaq0S167D2H0sT1/m8Ag==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-89.djvu</FileName>
+            <Checksum>0sNJF5vDIcOYzqXdmhg2YA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-90.djvu</FileName>
+            <Checksum>0VRDsSqPRz0zxCOoHOsMrg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-91.djvu</FileName>
+            <Checksum>EskGBM99NQNDip0NK4Fm8g==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-92.djvu</FileName>
+            <Checksum>vc34Wam01zeamg/gjB3Ikw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-93.djvu</FileName>
+            <Checksum>SdED7FEEdV8pvbC7W+0+mA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-94.djvu</FileName>
+            <Checksum>7ZwK6PdLdkkxd4+pEb0S+w==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-95.djvu</FileName>
+            <Checksum>epoFnr4gtsr9owLeZ0TndA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-96.djvu</FileName>
+            <Checksum>6IeiIW4OVaI2/fTVjmFgWg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-97.djvu</FileName>
+            <Checksum>6nO71O8O1HSfmOLPIzryCw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-98.djvu</FileName>
+            <Checksum>rI+UrUy1BmTgkafkWd4Mwg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-99.djvu</FileName>
+            <Checksum>O34QoFHEE4AGOJeZFRCaMg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-100.djvu</FileName>
+            <Checksum>b4REZ34YXhgEwXknbbE1XQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-101.djvu</FileName>
+            <Checksum>zXvqW3Ws9T6nsk6MO7LFOw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-102.djvu</FileName>
+            <Checksum>l9YPXR0yjaZzCKb7ztLkYQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-103.djvu</FileName>
+            <Checksum>uDJCs8U6KsLvc3fzkaWjkA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-104.djvu</FileName>
+            <Checksum>SoGqx/lXMcOBbA2DBxbEoQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-105.djvu</FileName>
+            <Checksum>l6q5oL2ncCZp0V2QaJTEgw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-106.djvu</FileName>
+            <Checksum>ys/gZimuMmEmt7BSoUkIOw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-107.djvu</FileName>
+            <Checksum>Mgn/b/cdCpFTyNGpGlVEOg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-108.djvu</FileName>
+            <Checksum>5EshN6ORe3HZ0tWar/6n8Q==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-109.djvu</FileName>
+            <Checksum>bGSFBhZUbmtIwx5rkC6YFg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-110.djvu</FileName>
+            <Checksum>gxhjrmWzG2fuRt3IwZd68g==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-111.djvu</FileName>
+            <Checksum>Q4lgzRzA9tQ4WEY+RVISNg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-112.djvu</FileName>
+            <Checksum>MVhJiRsc3k3+Guix6rqz6g==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-113.djvu</FileName>
+            <Checksum>pghGh0RFeJIgGHjY+fLflA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-114.djvu</FileName>
+            <Checksum>lGP3ZdmATJbbS4dwRyA/kQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-115.djvu</FileName>
+            <Checksum>nkXbJeioAQZq9u/hHA6swg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-116.djvu</FileName>
+            <Checksum>XT9rPd50hh7/eNmonW69Xg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-117.djvu</FileName>
+            <Checksum>2DNTIshSPhNcEWmqY4sBPQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-118.djvu</FileName>
+            <Checksum>cbo4M+rIgmQOLWSTTDVO/A==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-119.djvu</FileName>
+            <Checksum>KEXVx0N4nUOxJ/SbAGg6kw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-120.djvu</FileName>
+            <Checksum>DW3u+EtuGREbrmuh+RwLOQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-121.djvu</FileName>
+            <Checksum>bWJlqUQZIQscJz7WDBOiNg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-122.djvu</FileName>
+            <Checksum>9rdSeSlBwyG3t+e7pkwZeQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-123.djvu</FileName>
+            <Checksum>mdJT0oy10Q48k/Uvm6EQuA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-124.djvu</FileName>
+            <Checksum>c7Xi4zWiRCH0XmPWFoZj1g==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-125.djvu</FileName>
+            <Checksum>6XJafspZmxqoZR4uK4aFyQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-126.djvu</FileName>
+            <Checksum>IlLreVltkcloCEc3SQDzkw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-127.djvu</FileName>
+            <Checksum>1oNh8XNzdRtHSJdqEyUhQw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-128.djvu</FileName>
+            <Checksum>P8LARDXjnmDecabm8LbMIg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-129.djvu</FileName>
+            <Checksum>9fyEi1mzmV9E7znA0pjUQQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-130.djvu</FileName>
+            <Checksum>aMLLuZLGwCYS1T1tBlhYvQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-131.djvu</FileName>
+            <Checksum>lkdn4A/jlPuvk8+zU9IYYQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-132.djvu</FileName>
+            <Checksum>TuHkBOZUvnqtfRz/9OHYvA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-133.djvu</FileName>
+            <Checksum>wiUp00QdpVVzv0GQDs+Bxw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-134.djvu</FileName>
+            <Checksum>l11G/zsXsW7vXnXQd2ZF9Q==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-135.djvu</FileName>
+            <Checksum>yn7AWuU7LE3DBqxdfvYB2w==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-136.djvu</FileName>
+            <Checksum>BT9P5ECTjW0TWgeKvsu9YA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-137.djvu</FileName>
+            <Checksum>zttVRAW4PSnOX9wOM9Snvw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-138.djvu</FileName>
+            <Checksum>uG2HcAC5D7IlnW3U1jchFw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-139.djvu</FileName>
+            <Checksum>TECbEYsPUFdCH/gon95oOQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-140.djvu</FileName>
+            <Checksum>jW2xYIdIyoni4EhalQ0uqg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-141.djvu</FileName>
+            <Checksum>tN023kL5dBr3SrdnoAgD8Q==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-142.djvu</FileName>
+            <Checksum>AtFB1ULkKk5zGSJa7Mpxwg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-143.djvu</FileName>
+            <Checksum>dMWpkDbKvM/GlLqiUvHDaw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-144.djvu</FileName>
+            <Checksum>heU3Up6jYvYj/i7Ua3NKfA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-145.djvu</FileName>
+            <Checksum>kQLdk83w/obqnCBN3P6MSg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-146.djvu</FileName>
+            <Checksum>GkFTst5i/50wklDNTO3OoA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-147.djvu</FileName>
+            <Checksum>b5V9aTP+4oRsBTAkgybUug==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-148.djvu</FileName>
+            <Checksum>pAO3yF4GAFavH3aVu53OWw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-149.djvu</FileName>
+            <Checksum>0l9OhgAXyzChPpS55BK3xA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-150.djvu</FileName>
+            <Checksum>iC72vhCNkb4twRQyFEEvlA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-151.djvu</FileName>
+            <Checksum>fQLKso7I4PtxuGnl/CXebw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-152.djvu</FileName>
+            <Checksum>6gPMdESUMu1Sq4yVutrwbQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-153.djvu</FileName>
+            <Checksum>Rmx5elkjVXBf/A4zyEPEiQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-154.djvu</FileName>
+            <Checksum>I64OAkBXRJjgRksuS1/xuQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-155.djvu</FileName>
+            <Checksum>flnOBpBGvBtZtjwktYowMA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-156.djvu</FileName>
+            <Checksum>FvASEYTAL/fwcVMphrbwxw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-157.djvu</FileName>
+            <Checksum>gLTX26xGbw5k+bWEatD5HA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-158.djvu</FileName>
+            <Checksum>HdpftRDNDx79ErvHHdbKfg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-159.djvu</FileName>
+            <Checksum>gxBaOel+S8mdWQcHrhgkBQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-160.djvu</FileName>
+            <Checksum>M0D8ACXPOf0LoHKi7ex7Ig==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-161.djvu</FileName>
+            <Checksum>toxsp9oXBy/tjInRpKe43Q==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-162.djvu</FileName>
+            <Checksum>/ojcmna2TxkSC+jfE6BHBA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-163.djvu</FileName>
+            <Checksum>WiaYvD9pm8wQ81YMTFNkWQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-164.djvu</FileName>
+            <Checksum>rYUdvELLKsaIoC7BGRUqTA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-165.djvu</FileName>
+            <Checksum>U8g9rTyS5WBLH895gZ5ANA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-166.djvu</FileName>
+            <Checksum>WZkANMSYhlar37Fnyb6awA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-167.djvu</FileName>
+            <Checksum>ir8QMeV3+LDOBTodkEyCPQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-168.djvu</FileName>
+            <Checksum>SZ0RH6hzV3d+InSbuoy60A==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-169.djvu</FileName>
+            <Checksum>VsabzleUDzuMUxRJyJ+2rQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-170.djvu</FileName>
+            <Checksum>z0QZ030qytOCZa3VlLizfA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-171.djvu</FileName>
+            <Checksum>goDfzkJKWSJ345IGq5EbMg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-172.djvu</FileName>
+            <Checksum>iwCUEb3Ui8pA7VHC0F+wFw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-173.djvu</FileName>
+            <Checksum>DqTqLnQk6YuYaP8dE8MU9w==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-174.djvu</FileName>
+            <Checksum>DGSitFNNVfJ6gv4ZP/HsgQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-175.djvu</FileName>
+            <Checksum>Vs7X4OZKghLKnvwmecUzFQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-176.djvu</FileName>
+            <Checksum>Nc/tMKHSg0HoMC2eloX0Cw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-177.djvu</FileName>
+            <Checksum>W3U+LNcQ3zed720RxEVqfA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-178.djvu</FileName>
+            <Checksum>T8CFasxf3YYfw38lbLN5Ng==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-179.djvu</FileName>
+            <Checksum>TTSAYnjEgbJAFMynpocYeg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-180.djvu</FileName>
+            <Checksum>ZKZUCCra1zZ88EY7lWQB4g==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-181.djvu</FileName>
+            <Checksum>O0Bwp0V9OMbyF4XShJXkyQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-182.djvu</FileName>
+            <Checksum>0C7+tRXKWCiLi7X78ZUo2A==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-183.djvu</FileName>
+            <Checksum>0Zjapta6Mg+VUp3ZG+WrBA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-184.djvu</FileName>
+            <Checksum>5qqNksUKl1rGmqZTYFIw4Q==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-185.djvu</FileName>
+            <Checksum>wLfEz3bgXHoq/+BOArO/xQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-186.djvu</FileName>
+            <Checksum>I9cDUP9hrN7lWXf6oyupdw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-187.djvu</FileName>
+            <Checksum>K5EqtqbcmCI0H9UAxLV6SA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-188.djvu</FileName>
+            <Checksum>7+VkklGRA+Khvy3VOKMSxg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-189.djvu</FileName>
+            <Checksum>o273X5vmG2zU8+lQOf1PGg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-190.djvu</FileName>
+            <Checksum>Ve+2k0TXY39Z7GrmhYkw7Q==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-191.djvu</FileName>
+            <Checksum>M6vGsTx4HRp/Ny5wDaHcYA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-192.djvu</FileName>
+            <Checksum>dZVhbx2tqI1TKuqVCZyldg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-193.djvu</FileName>
+            <Checksum>vOPC3I8NSrfXFb9ER9P9jg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-194.djvu</FileName>
+            <Checksum>QftHYOwnepdixXgRx79krQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-195.djvu</FileName>
+            <Checksum>+GRY1c4CXGQibwKSF9fpZA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-196.djvu</FileName>
+            <Checksum>IKLPjgVcoisK8NMaMe9I8g==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-197.djvu</FileName>
+            <Checksum>NaEFSkWire8/f3i3wNLOWQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-198.djvu</FileName>
+            <Checksum>WzNICBvlGB8AWRLnqPVnwA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-199.djvu</FileName>
+            <Checksum>5qZR2J3uNolzzu80n36JtA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-200.djvu</FileName>
+            <Checksum>zD+FqP3Qx4cigWo0XtuspQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-201.djvu</FileName>
+            <Checksum>ccd/NXNUAX24QG9hQnu3rA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-202.djvu</FileName>
+            <Checksum>pbJv9apHiM5OvhWfLlTkNA==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-203.djvu</FileName>
+            <Checksum>WaUIi+gbOr0GluzzICQ/Mw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-204.djvu</FileName>
+            <Checksum>2lhRL/9omx/cMF9a0QbNUQ==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-205.djvu</FileName>
+            <Checksum>Aof9sOoXo2GjAb4gOqgmUw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-206.djvu</FileName>
+            <Checksum>2WyVN4Yvx/1esMoncf09dw==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-207.djvu</FileName>
+            <Checksum>yfef4wTvaCB/dvwRyaBqXg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+         <FileInfo>
+            <Extent>1</Extent>
+            <Size>0</Size>
+            <FileName>bfk4414-1-208.djvu</FileName>
+            <Checksum>2CxB2bK45PZAwgWsTj9Ozg==</Checksum>
+            <Creation>2013-08-19 12:59:16.0</Creation>
+            <Update>2013-08-19 12:59:16.0</Update>
+         </FileInfo>
+      </FileInfos>
+      <Id>IU/MediaObject/553986</Id>
+      <CreationInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2013-08-19 12:59:15.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2013-08-19 13:19:58.0</Timestamp>
+      </UpdateInfo>
+      <Status>Complete</Status>
+   </MediaObject>
+   <SetInfo>
+      <TextMatches/>
+      <ThemeBaseURL>http://variations-prod-web.dlib.indiana.edu/variations/themes/</ThemeBaseURL>
+      <AvailableMediaItems>
+         <AllItemsAvailable>true</AllItemsAvailable>
+      </AvailableMediaItems>
+   </SetInfo>
+</RecordSet>
+
+<AccompanyingMaterials>
+
+</AccompanyingMaterials>
+
+
+</ScoreAccessPage>
