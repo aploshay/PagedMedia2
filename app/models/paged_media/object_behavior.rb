@@ -74,11 +74,6 @@ module PagedMedia::ObjectBehavior
     relationship_list(:member_of, :id, classes)
   end
 
-  # list ancestors as ids
-  def ancestors_list_titles(*classes)
-    relationship_list(:member_of, :title, classes)
-  end
-
   # abstract method to build an array
   # relationship_method: generally :members/:ordered_members, or :member_of
   # object_method: method to return key (:itself, :id, :title, etc)
