@@ -1,9 +1,11 @@
   <div class="row">
     <div >
       <% unless @cont_json.nil? %>
-        <%= content_tag(:h3, 'Table of Contents') %>
-        <% cont_array = JSON.parse(@cont_json) %>
-        <%= format_array(cont_array) %>
+        <% if JSON.parse(@cont_json).count > 0 %>
+          <%= content_tag(:h3, 'Table of Contents') %>
+          <% cont_array = JSON.parse(@cont_json) %>
+          <%= format_array(cont_array) %>
+        <% end %>
       <% end %>
     </div>
   </div>
