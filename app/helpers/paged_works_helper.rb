@@ -7,7 +7,7 @@ module PagedWorksHelper
   end
 
   def format_array(array, html='')
-    ul_contents = '<ul>'
+    ul_contents = '<ul class="sortable_containers">'
     array.each do |value|
       if value.is_a?(Hash)
         ul_contents += format_hash(value)
