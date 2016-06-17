@@ -1,0 +1,959 @@
+---
+musical_score:
+  title:
+  - 'Symphony no. 5 in C minor : an authoritative score, the sketches, historical
+    background, analysis, views and comments'
+  creator:
+  - Beethoven, Ludwig van, 1770-1827
+  visibility: open
+  ordered_members:
+  - container:
+      title: "[Half title page]"
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - "[i]"
+          file: bfk4414-1-1.png
+  - container:
+      title: "[Series contents]"
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - "[ii]"
+          file: bfk4414-1-2.png
+  - container:
+      title: "[Title page]"
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - "[iii]"
+          file: bfk4414-1-3.png
+  - container:
+      title: "[Copyright statement]"
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - "[iv]"
+          file: bfk4414-1-4.png
+  - container:
+      title: Contents
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - v
+  - container:
+      title: Preface
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - vi
+  - container:
+      title: Historical Background
+      ordered_members:
+      - container:
+          title: "[Half title page]"
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - "[1]"
+      - container:
+          title: "[Blank]"
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - "[2]"
+      - container:
+          title: Historical Background
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '3'
+          - file_set:
+              visibility: open
+              title:
+              - '4'
+          - file_set:
+              visibility: open
+              title:
+              - '5'
+          - file_set:
+              visibility: open
+              title:
+              - '6'
+          - file_set:
+              visibility: open
+              title:
+              - '7'
+          - file_set:
+              visibility: open
+              title:
+              - '8'
+          - file_set:
+              visibility: open
+              title:
+              - '9'
+          - file_set:
+              visibility: open
+              title:
+              - '10'
+          - file_set:
+              visibility: open
+              title:
+              - '11'
+          - file_set:
+              visibility: open
+              title:
+              - '12'
+          - file_set:
+              visibility: open
+              title:
+              - '13'
+          - file_set:
+              visibility: open
+              title:
+              - '14'
+          - file_set:
+              visibility: open
+              title:
+              - '15'
+          - file_set:
+              visibility: open
+              title:
+              - '16'
+  - container:
+      title: The Score of the Symphony
+      ordered_members:
+      - container:
+          title: "[Half title page]"
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - "[17]"
+      - container:
+          title: Instrumentation
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - "[18]"
+      - container:
+          title: Symphony No.5  in C Minor
+          ordered_members:
+          - container:
+              title: 'I: Allegro con brio'
+              ordered_members:
+              - file_set:
+                  visibility: open
+                  title:
+                  - '19'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '20'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '21'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '22'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '23'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '24'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '25'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '26'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '27'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '28'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '29'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '30'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '31'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '32'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '33'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '34'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '35'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '36'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '37'
+          - container:
+              title: 'II: Andante con moto'
+              ordered_members:
+              - file_set:
+                  visibility: open
+                  title:
+                  - '38'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '39'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '40'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '41'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '42'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '43'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '44'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '45'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '46'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '47'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '48'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '49'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '50'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '51'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '52'
+          - container:
+              title: 'III: Allegro'
+              ordered_members:
+              - file_set:
+                  visibility: open
+                  title:
+                  - '53'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '54'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '55'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '56'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '57'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '58'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '59'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '60'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '61'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '62'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '63'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '64'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '65'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '66'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '67'
+          - container:
+              title: 'IV: Allegro'
+              ordered_members:
+              - file_set:
+                  visibility: open
+                  title:
+                  - '68'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '69'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '70'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '71'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '72'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '73'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '74'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '75'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '76'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '77'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '78'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '79'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '80'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '81'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '82'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '83'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '84'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '85'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '86'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '87'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '88'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '89'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '90'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '91'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '92'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '93'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '94'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '95'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '96'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '97'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '98'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '99'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '100'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '101'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '102'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '103'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '104'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '105'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '106'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '107'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '108'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '109'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '110'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '111'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '112'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '113'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '114'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '115'
+              - file_set:
+                  visibility: open
+                  title:
+                  - '116'
+  - container:
+      title: The Sketches
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - '117'
+      - file_set:
+          visibility: open
+          title:
+          - '118'
+      - file_set:
+          visibility: open
+          title:
+          - '119'
+      - file_set:
+          visibility: open
+          title:
+          - '120'
+      - file_set:
+          visibility: open
+          title:
+          - '121'
+      - file_set:
+          visibility: open
+          title:
+          - '122'
+      - file_set:
+          visibility: open
+          title:
+          - '123'
+      - file_set:
+          visibility: open
+          title:
+          - '124'
+      - file_set:
+          visibility: open
+          title:
+          - '125'
+      - file_set:
+          visibility: open
+          title:
+          - '126'
+      - file_set:
+          visibility: open
+          title:
+          - '127'
+      - file_set:
+          visibility: open
+          title:
+          - '128'
+  - container:
+      title: Textual Note
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - '129'
+      - file_set:
+          visibility: open
+          title:
+          - '130'
+      - file_set:
+          visibility: open
+          title:
+          - '131'
+      - file_set:
+          visibility: open
+          title:
+          - '132'
+      - file_set:
+          visibility: open
+          title:
+          - '133'
+      - file_set:
+          visibility: open
+          title:
+          - '134'
+      - file_set:
+          visibility: open
+          title:
+          - '135'
+      - file_set:
+          visibility: open
+          title:
+          - '136'
+      - file_set:
+          visibility: open
+          title:
+          - '137'
+      - file_set:
+          visibility: open
+          title:
+          - '138'
+      - file_set:
+          visibility: open
+          title:
+          - '139'
+      - file_set:
+          visibility: open
+          title:
+          - '140'
+  - container:
+      title: Analysis
+      ordered_members:
+      - container:
+          title: "[Half title page]"
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - "[141]"
+      - container:
+          title: "[verso]"
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - "[142]"
+      - container:
+          title: Donald Francis Tovey, [The Fifth Symphony]
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '143'
+          - file_set:
+              visibility: open
+              title:
+              - '144'
+          - file_set:
+              visibility: open
+              title:
+              - '145'
+          - file_set:
+              visibility: open
+              title:
+              - '146'
+          - file_set:
+              visibility: open
+              title:
+              - '147'
+          - file_set:
+              visibility: open
+              title:
+              - '148'
+          - file_set:
+              visibility: open
+              title:
+              - '149'
+      - container:
+          title: E.T.A. Hoffmann, [Review of the Fifth Symphony]
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '150'
+          - file_set:
+              visibility: open
+              title:
+              - '151'
+          - file_set:
+              visibility: open
+              title:
+              - '152'
+          - file_set:
+              visibility: open
+              title:
+              - '153'
+          - file_set:
+              visibility: open
+              title:
+              - '154'
+          - file_set:
+              visibility: open
+              title:
+              - '155'
+          - file_set:
+              visibility: open
+              title:
+              - '156'
+          - file_set:
+              visibility: open
+              title:
+              - '157'
+          - file_set:
+              visibility: open
+              title:
+              - '158'
+          - file_set:
+              visibility: open
+              title:
+              - '159'
+          - file_set:
+              visibility: open
+              title:
+              - '160'
+          - file_set:
+              visibility: open
+              title:
+              - '161'
+          - file_set:
+              visibility: open
+              title:
+              - '162'
+          - file_set:
+              visibility: open
+              title:
+              - '163'
+      - container:
+          title: Heinrich Schenker, [Analysis of the First Movement]
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '164'
+          - file_set:
+              visibility: open
+              title:
+              - '165'
+          - file_set:
+              visibility: open
+              title:
+              - '166'
+          - file_set:
+              visibility: open
+              title:
+              - '167'
+          - file_set:
+              visibility: open
+              title:
+              - '168'
+          - file_set:
+              visibility: open
+              title:
+              - '169'
+          - file_set:
+              visibility: open
+              title:
+              - '170'
+          - file_set:
+              visibility: open
+              title:
+              - '171'
+          - file_set:
+              visibility: open
+              title:
+              - '172'
+          - file_set:
+              visibility: open
+              title:
+              - '173'
+          - file_set:
+              visibility: open
+              title:
+              - '174'
+          - file_set:
+              visibility: open
+              title:
+              - '175'
+          - file_set:
+              visibility: open
+              title:
+              - '176'
+          - file_set:
+              visibility: open
+              title:
+              - '177'
+          - file_set:
+              visibility: open
+              title:
+              - '178'
+          - file_set:
+              visibility: open
+              title:
+              - '179'
+          - file_set:
+              visibility: open
+              title:
+              - '180'
+          - file_set:
+              visibility: open
+              title:
+              - '181'
+          - file_set:
+              visibility: open
+              title:
+              - '182'
+  - container:
+      title: Views and Comments
+      ordered_members:
+      - container:
+          title: "[Half title page]"
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - "[183]"
+      - container:
+          title: "[verso]"
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - "[184]"
+      - container:
+          title: Anton Schindler
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '185'
+      - container:
+          title: Ludwig Spohr
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '186'
+      - container:
+          title: Hector Berlioz
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '187'
+          - file_set:
+              visibility: open
+              title:
+              - '188'
+          - file_set:
+              visibility: open
+              title:
+              - '189'
+      - container:
+          title: Felix Mendelssohn
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '190'
+      - container:
+          title: Richard Wagner
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '191'
+          - file_set:
+              visibility: open
+              title:
+              - '192'
+          - file_set:
+              visibility: open
+              title:
+              - '193'
+      - container:
+          title: Felix Weingartner
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '194'
+          - file_set:
+              visibility: open
+              title:
+              - '195'
+          - file_set:
+              visibility: open
+              title:
+              - '196'
+          - file_set:
+              visibility: open
+              title:
+              - '197'
+      - container:
+          title: Donald Francis Tovey
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '198'
+      - container:
+          title: Edward T. Cone
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '199'
+          - file_set:
+              visibility: open
+              title:
+              - '200'
+  - container:
+      title: Bibliography
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - '201'
+      - file_set:
+          visibility: open
+          title:
+          - '202'

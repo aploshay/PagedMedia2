@@ -1,0 +1,316 @@
+---
+musical_score:
+  title:
+  - Fontane di Roma ; poema sinfonico per orchestra
+  creator:
+  - Respighi, Ottorino, 1879-1936
+  visibility: open
+  ordered_members:
+  - container:
+      title: "[Title Page and Copyright Page]"
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - "[i]"
+          file: bhr9405-1-1.png
+      - file_set:
+          visibility: open
+          title:
+          - "[ii]"
+          file: bhr9405-1-2.png
+  - container:
+      title: "[Notes]"
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - "[iii]"
+          file: bhr9405-1-3.png
+      - file_set:
+          visibility: open
+          title:
+          - "[iv]"
+          file: bhr9405-1-4.png
+  - container:
+      title: "[Orchestration]"
+      ordered_members:
+      - file_set:
+          visibility: open
+          title:
+          - "[v]"
+      - file_set:
+          visibility: open
+          title:
+          - "[vi]"
+  - container:
+      title: 'Fontane de Roma : Poema Sinfonico'
+      ordered_members:
+      - container:
+          title: La fontana di Valle Giulia all'alba
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '1'
+          - file_set:
+              visibility: open
+              title:
+              - '2'
+          - file_set:
+              visibility: open
+              title:
+              - '3'
+          - file_set:
+              visibility: open
+              title:
+              - '4'
+          - file_set:
+              visibility: open
+              title:
+              - '5'
+          - file_set:
+              visibility: open
+              title:
+              - '6'
+          - file_set:
+              visibility: open
+              title:
+              - '7'
+          - file_set:
+              visibility: open
+              title:
+              - '8'
+          - file_set:
+              visibility: open
+              title:
+              - '9'
+      - container:
+          title: La fontana del Tritone al mattino
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '10'
+          - file_set:
+              visibility: open
+              title:
+              - '11'
+          - file_set:
+              visibility: open
+              title:
+              - '12'
+          - file_set:
+              visibility: open
+              title:
+              - '13'
+          - file_set:
+              visibility: open
+              title:
+              - '14'
+          - file_set:
+              visibility: open
+              title:
+              - '15'
+          - file_set:
+              visibility: open
+              title:
+              - '16'
+          - file_set:
+              visibility: open
+              title:
+              - '17'
+          - file_set:
+              visibility: open
+              title:
+              - '18'
+          - file_set:
+              visibility: open
+              title:
+              - '19'
+          - file_set:
+              visibility: open
+              title:
+              - '20'
+          - file_set:
+              visibility: open
+              title:
+              - '21'
+          - file_set:
+              visibility: open
+              title:
+              - '22'
+          - file_set:
+              visibility: open
+              title:
+              - '23'
+          - file_set:
+              visibility: open
+              title:
+              - '24'
+          - file_set:
+              visibility: open
+              title:
+              - '25'
+          - file_set:
+              visibility: open
+              title:
+              - '26'
+          - file_set:
+              visibility: open
+              title:
+              - '27'
+      - container:
+          title: La fontana di Trevi al meriggio
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '28'
+          - file_set:
+              visibility: open
+              title:
+              - '29'
+          - file_set:
+              visibility: open
+              title:
+              - '30'
+          - file_set:
+              visibility: open
+              title:
+              - '31'
+          - file_set:
+              visibility: open
+              title:
+              - '32'
+          - file_set:
+              visibility: open
+              title:
+              - '33'
+          - file_set:
+              visibility: open
+              title:
+              - '34'
+          - file_set:
+              visibility: open
+              title:
+              - '35'
+          - file_set:
+              visibility: open
+              title:
+              - '36'
+          - file_set:
+              visibility: open
+              title:
+              - '37'
+          - file_set:
+              visibility: open
+              title:
+              - '38'
+          - file_set:
+              visibility: open
+              title:
+              - '39'
+          - file_set:
+              visibility: open
+              title:
+              - '40'
+          - file_set:
+              visibility: open
+              title:
+              - '41'
+          - file_set:
+              visibility: open
+              title:
+              - '42'
+          - file_set:
+              visibility: open
+              title:
+              - '43'
+          - file_set:
+              visibility: open
+              title:
+              - '44'
+          - file_set:
+              visibility: open
+              title:
+              - '45'
+          - file_set:
+              visibility: open
+              title:
+              - '46'
+          - file_set:
+              visibility: open
+              title:
+              - '47'
+          - file_set:
+              visibility: open
+              title:
+              - '48'
+          - file_set:
+              visibility: open
+              title:
+              - '49'
+          - file_set:
+              visibility: open
+              title:
+              - '50'
+          - file_set:
+              visibility: open
+              title:
+              - '51'
+          - file_set:
+              visibility: open
+              title:
+              - '52'
+      - container:
+          title: La fontana di Villa Medici al tramonto
+          ordered_members:
+          - file_set:
+              visibility: open
+              title:
+              - '53'
+          - file_set:
+              visibility: open
+              title:
+              - '54'
+          - file_set:
+              visibility: open
+              title:
+              - '55'
+          - file_set:
+              visibility: open
+              title:
+              - '56'
+          - file_set:
+              visibility: open
+              title:
+              - '57'
+          - file_set:
+              visibility: open
+              title:
+              - '58'
+          - file_set:
+              visibility: open
+              title:
+              - '59'
+          - file_set:
+              visibility: open
+              title:
+              - '60'
+          - file_set:
+              visibility: open
+              title:
+              - '61'
+          - file_set:
+              visibility: open
+              title:
+              - '62'
+          - file_set:
+              visibility: open
+              title:
+              - '63'
+          - file_set:
+              visibility: open
+              title:
+              - '64'
