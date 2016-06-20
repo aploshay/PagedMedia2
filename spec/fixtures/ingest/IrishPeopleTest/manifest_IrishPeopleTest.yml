@@ -1,0 +1,340 @@
+---
+collection:
+  title: Irish People
+  visibility: open
+  ordered_members:
+  - newspaper:
+      title:
+      - 1974-11-16 Irish People
+      visibility: open
+      creator:
+      - Irish People Inc.
+      ordered_members:
+      - - file_set:
+            title:
+            - page1
+            visibility: open
+        - file_set:
+            title:
+            - page2
+            visibility: open
+        - file_set:
+            title:
+            - page3
+            visibility: open
+        - file_set:
+            title:
+            - page4
+            visibility: open
+        - file_set:
+            title:
+            - page5
+            visibility: open
+        - file_set:
+            title:
+            - page6
+            visibility: open
+        - file_set:
+            title:
+            - page7
+            visibility: open
+        - file_set:
+            title:
+            - page8
+            visibility: open
+        - file_set:
+            title:
+            - page9
+            visibility: open
+        - file_set:
+            title:
+            - page10-11
+            visibility: open
+        - file_set:
+            title:
+            - page12
+            visibility: open
+        - file_set:
+            title:
+            - page13
+            visibility: open
+        - file_set:
+            title:
+            - page14
+            visibility: open
+        - file_set:
+            title:
+            - page15
+            visibility: open
+        - file_set:
+            title:
+            - page16
+            visibility: open
+        - file_set:
+            title:
+            - page17
+            visibility: open
+        - file_set:
+            title:
+            - page18
+            visibility: open
+        - file_set:
+            title:
+            - page19
+            visibility: open
+        - file_set:
+            title:
+            - page20
+            visibility: open
+  - newspaper:
+      title:
+      - 1982-03-27 Irish People
+      visibility: open
+      creator:
+      - Irish People Inc.
+      ordered_members:
+      - - file_set:
+            title:
+            - page1
+            visibility: open
+        - file_set:
+            title:
+            - page2
+            visibility: open
+        - file_set:
+            title:
+            - page3
+            visibility: open
+        - file_set:
+            title:
+            - page4
+            visibility: open
+        - file_set:
+            title:
+            - page5
+            visibility: open
+        - file_set:
+            title:
+            - page6
+            visibility: open
+        - file_set:
+            title:
+            - page7
+            visibility: open
+        - file_set:
+            title:
+            - page8-9
+            visibility: open
+        - file_set:
+            title:
+            - page10
+            visibility: open
+        - file_set:
+            title:
+            - page11
+            visibility: open
+        - file_set:
+            title:
+            - page12
+            visibility: open
+        - file_set:
+            title:
+            - page13
+            visibility: open
+        - file_set:
+            title:
+            - page14
+            visibility: open
+        - file_set:
+            title:
+            - page15
+            visibility: open
+        - file_set:
+            title:
+            - page16
+            visibility: open
+  - newspaper:
+      title:
+      - 1988-04-02 Irish People, Easter Rising
+      visibility: open
+      creator:
+      - Irish People Inc.
+      ordered_members:
+      - - file_set:
+            title:
+            - page1
+            visibility: open
+        - file_set:
+            title:
+            - page2
+            visibility: open
+        - file_set:
+            title:
+            - page3
+            visibility: open
+        - file_set:
+            title:
+            - page4
+            visibility: open
+        - file_set:
+            title:
+            - page5
+            visibility: open
+        - file_set:
+            title:
+            - page6-7
+            visibility: open
+        - file_set:
+            title:
+            - page8
+            visibility: open
+        - file_set:
+            title:
+            - page9
+            visibility: open
+        - file_set:
+            title:
+            - page10
+            visibility: open
+        - file_set:
+            title:
+            - page11
+            visibility: open
+        - file_set:
+            title:
+            - page12
+            visibility: open
+  - newspaper:
+      title:
+      - 1992-10-31 Irish People
+      visibility: open
+      creator:
+      - Irish People Inc.
+      ordered_members:
+      - - file_set:
+            title:
+            - page1
+            visibility: open
+        - file_set:
+            title:
+            - page2
+            visibility: open
+        - file_set:
+            title:
+            - page3
+            visibility: open
+        - file_set:
+            title:
+            - page4
+            visibility: open
+        - file_set:
+            title:
+            - page5
+            visibility: open
+        - file_set:
+            title:
+            - page6
+            visibility: open
+        - file_set:
+            title:
+            - page7
+            visibility: open
+        - file_set:
+            title:
+            - page8-9
+            visibility: open
+        - file_set:
+            title:
+            - page10
+            visibility: open
+        - file_set:
+            title:
+            - page11
+            visibility: open
+        - file_set:
+            title:
+            - page12
+            visibility: open
+        - file_set:
+            title:
+            - page13
+            visibility: open
+        - file_set:
+            title:
+            - page14
+            visibility: open
+        - file_set:
+            title:
+            - page15
+            visibility: open
+        - file_set:
+            title:
+            - page16
+            visibility: open
+  - newspaper:
+      title:
+      - 2003-08-09 Irish People
+      visibility: open
+      creator:
+      - Irish People Inc.
+      ordered_members:
+      - - file_set:
+            title:
+            - page1
+            visibility: open
+        - file_set:
+            title:
+            - page2
+            visibility: open
+        - file_set:
+            title:
+            - page3
+            visibility: open
+        - file_set:
+            title:
+            - page4
+            visibility: open
+        - file_set:
+            title:
+            - page5
+            visibility: open
+        - file_set:
+            title:
+            - page6
+            visibility: open
+        - file_set:
+            title:
+            - page7
+            visibility: open
+        - file_set:
+            title:
+            - page8-9
+            visibility: open
+        - file_set:
+            title:
+            - page10
+            visibility: open
+        - file_set:
+            title:
+            - page11
+            visibility: open
+        - file_set:
+            title:
+            - page12
+            visibility: open
+        - file_set:
+            title:
+            - page13
+            visibility: open
+        - file_set:
+            title:
+            - page14
+            visibility: open
+        - file_set:
+            title:
+            - page15
+            visibility: open
+        - file_set:
+            title:
+            - page16
+            visibility: open

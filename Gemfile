@@ -55,7 +55,7 @@ gem 'devise-guests'
 group :development, :test do
   gem 'rspec-rails'
   gem 'fcrepo_wrapper'
-  gem 'solr_wrapper'
+  gem 'solr_wrapper', '0.13.1'
   gem 'factory_girl_rails'
   # Rubygems version of ammeter has circular dependency problem so get gem from Github with fix
   gem 'ammeter', git: 'https://github.com/alexrothenberg/ammeter.git'
@@ -63,5 +63,3 @@ group :development, :test do
   gem 'rubocop-rspec', require: false
   gem 'coveralls', require: false
 end
-
-
