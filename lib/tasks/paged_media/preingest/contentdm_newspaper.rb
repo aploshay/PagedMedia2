@@ -15,15 +15,14 @@ module PagedMedia
         end
       end
       def ContentdmNewspaper.add_newspaper(record)
-        title = record.xpath('title').map(&:content)
         issue = {}
         issue['newspaper'] = {}
-        issue['newspaper']['title'] = title
+        issue['newspaper']['title'] = record.xpath('title').map(&:content)
         issue['newspaper']['visibility'] = 'open'
         issue['newspaper']['creator'] = record.xpath('publisher').map(&:content)
-        issue['newspaper']['ordered_members'] = []
+        #issue['newspaper']['ordered_members'] = []
         pages = ContentdmNewspaper.add_pages(record.xpath('structure'))
-        issue['newspaper']['ordered_members'] << pages
+        issue['newspaper']['ordered_members'] = pages
         return issue
       end
       def ContentdmNewspaper.add_pages(pages_xml)
@@ -33,6 +32,10 @@ module PagedMedia
           page['file_set'] = {}
           page['file_set']['title'] = page_xml.xpath('pagetitle').map(&:content)
           page['file_set']['visibility'] = 'open'
+          #files = {}
+          #page_xml.xpath('pagefile').each do |file_xml|
+            #file_type = file_xml.xpath('pagefiletype').text
+          #end
           pages << page
         end
         return pages
@@ -44,25 +47,18 @@ module PagedMedia
         # set up output
         yaml = {}
         basename = Pathname.new(filename).basename.to_s.gsub('.xml', '')
-
-        # stub in test output
-        #yaml['newspaper'] = {}
-        #yaml['newspaper']['title'] = ['TITLE MISSING']
-        #yaml['newspaper']['creator'] = ['AUTHOR MISSING']
-        #yaml['newspaper']['visibility'] = 'open'
-        #yaml['newspaper']['ordered_members'] = []
+        collectionname = basename.gsub('_', ' ')
 
         # create collection
         yaml['collection'] = {}
-        yaml['collection']['title'] = 'Irish People'
+        yaml['collection']['title'] = [collectionname]
         yaml['collection']['visibility'] = 'open'
-        yaml['collection']['ordered_members'] = {}
+        #yaml['collection']['ordered_members'] = {}
 
         # each record is an issue
         issues = []
         xml.xpath('/metadata/record').each do |record|
           issues << ContentdmNewspaper.add_newspaper(record)
-          #puts "Title: #{title} "
         end
 
         # add issues to collection
