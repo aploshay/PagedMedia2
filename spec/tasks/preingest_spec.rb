@@ -7,6 +7,8 @@ describe PagedMedia::PreIngest do
   describe PagedMedia::PreIngest::Tasks do
     describe '.preingest' do
       before(:all) do
+        # ensure previous tests have not left clutter behind
+        PREINGEST_CHANGES.keys.each { |object_class| object_class.destroy_all }
         PagedMedia::PreIngest::Tasks.preingest
         PagedMedia::Ingest::Tasks.ingest
       end
