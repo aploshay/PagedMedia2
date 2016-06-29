@@ -44,6 +44,8 @@ module PagedMedia
           page['file_set'] = {}
           page['file_set']['title'] = page_xml.xpath('pagetitle').map(&:content)
           page['file_set']['visibility'] = 'open'
+          files = self.add_files(page_xml)
+          page['file_set']['files'] = files
           pages << page
         end
         return pages
@@ -53,12 +55,44 @@ module PagedMedia
       # @param [XML_Object] page_xml node to parse
       # @return [Array] of files to add to page
       def ContentdmNewspaper.add_files(page_xml)
-        # TODO - Will add URL to pull in files (page image, thumbnail, extracted text)
-        files[] = []
+        files = []
         page_xml.xpath('pagefile').each do |pagefile_xml|
-
+          pagefile_type = pagefile_xml.xpath('pagefiletype').map(&:content).first.to_s
+          file_type = ''
+          case pagefile_type
+          when 'thumbnail'
+            file_type = pagefile_type
+          when 'access'
+            file_type = 'image'
+          else
+            next
+          end
+          file = {}
+          file['file'] = {}
+          file['file']['type'] = file_type
+          path = pagefile_xml.xpath('pagefilelocation').map(&:content).first.to_s
+          file['file']['path'] = self.fix_path_iupui(path)
+          files << file
         end
         return files
+      end
+      # Pull out fulltext from export file
+      #
+      # @param [Type]  describe
+      # @return [Type] description of returned object
+      def ContentdmNewspaper.extra_fulltest()
+        # TODO Pull out fulltext from import file and create file to be saved
+      end
+      # Fix file paths for IUPUI exports
+      #
+      # @param [String] path given from IUPUI contentDM export
+      # @return [String] corrected path using new API port for IUPUI contentDM
+      def ContentdmNewspaper.fix_path_iupui(path)
+        # IUPUI CDM no longer provides API on port 445
+        # The API is now available on port 2012
+        # Also need to replace &amp; with just &
+        path = path.sub(/445\/cgi-bin/, '2012/cgi-bin')
+        path = path.sub('&amp;', '&')
       end
       # Create manifext file from preingested data
       # for contentDM newspapers export
