@@ -35,7 +35,7 @@ module PagedMedia
       end
       # Create pages array to be added to issue/newspaper
       #
-      # @param [XML_Object] pages_xml to parse
+      # @param [XML_Object] for pages to parse
       # @return [Array] of pages to add to issue/newspaper
       def ContentdmNewspaper.add_pages(pages_xml)
         pages = []
@@ -52,7 +52,7 @@ module PagedMedia
       end
       # Create array of files to add to page
       #
-      # @param [XML_Object] page_xml node to parse
+      # @param [XML_Object] for page node to parse
       # @return [Array] of files to add to page
       def ContentdmNewspaper.add_files(page_xml)
         files = []
@@ -80,7 +80,7 @@ module PagedMedia
       #
       # @param [Type]  describe
       # @return [Type] description of returned object
-      def ContentdmNewspaper.extra_fulltest()
+      def ContentdmNewspaper.content_fulltext()
         # TODO Pull out fulltext from import file and create file to be saved
       end
       # Fix file paths for IUPUI exports
@@ -90,7 +90,7 @@ module PagedMedia
       def ContentdmNewspaper.fix_path_iupui(path)
         # IUPUI CDM no longer provides API on port 445
         # The API is now available on port 2012
-        # Also need to replace &amp; with just &
+        # Also needs to replace &amp; with just &
         path = path.sub(/445\/cgi-bin/, '2012/cgi-bin')
         path = path.sub('&amp;', '&')
       end
