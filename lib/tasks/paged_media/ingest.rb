@@ -47,10 +47,9 @@ module PagedMedia
               val.each do |file_hash|
                 file_path = file_hash['file']['path'].to_s
                 file_type = file_hash['file']['type'].to_s
-                if file_type.eql? "thumbnail"
-                  file = open(file_path)
-                  Hydra::Works::UploadFileToFileSet.call(object, file)
-                end
+                # TODO - Extend code to hanlde and "label" multiple files
+                file = open(file_path)
+                Hydra::Works::UploadFileToFileSet.call(object, file)
               end
             else
               object.send("#{att}=", val)
