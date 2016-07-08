@@ -33,13 +33,23 @@ module PagedMedia
           attributes.each do |att, val|
             case att
             when 'file'
-              file_path = "#{subdir}/content/#{val}"
-              Hydra::Works::UploadFileToFileSet.call(object, File.open(file_path))
+              if val.instance_of? String
+                file_path = "#{subdir}/content/#{val}"
+                Hydra::Works::UploadFileToFileSet.call(object, File.open(file_path))
+              end
             when 'ordered_members'
               val.each do |member_hash|
                 Helpers.objects_from_hash(member_hash, subdir).each do |member|
                   object.ordered_members << member
                 end
+              end
+            when 'files'
+              val.each do |file_hash|
+                file_path = file_hash['file']['path'].to_s
+                file_type = file_hash['file']['type'].to_s
+                # TODO - Extend code to hanlde and "label" multiple files
+                file = open(file_path)
+                Hydra::Works::UploadFileToFileSet.call(object, file)
               end
             else
               object.send("#{att}=", val)
