@@ -32,7 +32,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'curation_concerns', '~> 0.14.0'
+gem 'curation_concerns', '~> 1.1.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
@@ -55,7 +55,7 @@ gem 'devise-guests'
 group :development, :test do
   gem 'rspec-rails'
   gem 'fcrepo_wrapper'
-  gem 'solr_wrapper', '0.13.1'
+  gem 'solr_wrapper'
   gem 'factory_girl_rails'
   # Rubygems version of ammeter has circular dependency problem so get gem from Github with fix
   gem 'ammeter', git: 'https://github.com/alexrothenberg/ammeter.git'
