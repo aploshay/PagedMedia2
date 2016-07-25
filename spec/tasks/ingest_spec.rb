@@ -1,6 +1,6 @@
 require './lib/tasks/paged_media/ingest'
 
-describe PagedMedia::Ingest do
+describe PagedMedia::Ingest, :integration, :ingest do
   describe PagedMedia::Ingest::Tasks do
     describe '.ingest' do
       it 'adds 2 PagedWork objects' do

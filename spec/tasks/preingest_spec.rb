@@ -3,7 +3,7 @@ require './lib/tasks/paged_media/ingest'
 
 PREINGEST_CHANGES = { Collection => 1, Newspaper => 5, MusicalScore => 2 }
 
-describe PagedMedia::PreIngest do
+describe PagedMedia::PreIngest, :integration, :ingest do
   describe PagedMedia::PreIngest::Tasks do
     describe '.preingest' do
       before(:all) do
