@@ -64,5 +64,4 @@ group :development, :test do
   gem 'coveralls', require: false
   gem 'guard', '~> 2.14'
   gem 'guard-rspec', '~> 4.7', '>= 4.7.3'
-  gem 'guard-livereload', '~> 2.5', '>= 2.5.2'
 end
